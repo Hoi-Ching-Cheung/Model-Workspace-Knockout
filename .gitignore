@@ -1,0 +1,16 @@
+# large artifacts, not versioned (GitHub 100MB limit)
+hf_cache/
+lens/
+
+# python
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.venv/
+
+# OS / editor noise
+.DS_Store
+.ipynb_checkpoints/
+*.bak
+*.gdoc
+*.gsheet

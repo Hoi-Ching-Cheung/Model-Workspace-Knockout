@@ -1,0 +1,301 @@
+id,dataset,level,condition,arm,pred,gold,correct,n_tokens,hit_cap,looped,config
+aime24/60,aime24,,clean,no_cot,**120** minutes.,204,0,8,0,0,clean
+aime24/61,aime24,,clean,no_cot,$\boxed{131}$,113,0,128,1,0,clean
+aime24/62,aime24,,clean,no_cot,$\boxed{137}$,371,0,8,0,0,clean
+aime24/63,aime24,,clean,no_cot,$\boxed{12}$,385,0,7,0,0,clean
+aime24/64,aime24,,clean,no_cot,$\boxed{29}$,110,0,7,0,0,clean
+aime24/65,aime24,,clean,no_cot,$\boxed{110}$,104,0,128,1,0,clean
+aime24/66,aime24,,clean,no_cot,$\boxed{130}$,721,0,128,1,0,clean
+aime24/67,aime24,,clean,no_cot,$\boxed{100}$,025,0,8,0,0,clean
+aime24/68,aime24,,clean,no_cot,**1012**,809,0,128,1,0,clean
+aime24/69,aime24,,clean,no_cot,$\boxed{130}$,116,0,128,1,0,clean
+aime24/70,aime24,,clean,no_cot,$\boxed{255}$,104,0,8,0,0,clean
+aime24/71,aime24,,clean,no_cot,**168**.,294,0,7,0,0,clean
+aime24/72,aime24,,clean,no_cot,$\boxed{120}$,540,0,8,0,0,clean
+aime24/73,aime24,,clean,no_cot,$\boxed{2025}$,197,0,128,1,0,clean
+aime24/74,aime24,,clean,no_cot,$\boxed{48}$,480,0,7,0,0,clean
+aime24/75,aime24,,clean,no_cot,**12**.,073,0,6,0,0,clean
+aime24/76,aime24,,clean,no_cot,$\boxed{182}$,468,0,8,0,0,clean
+aime24/77,aime24,,clean,no_cot,$\boxed{1}$,601,0,6,0,0,clean
+aime24/78,aime24,,clean,no_cot,$\boxed{13}$,023,0,128,1,0,clean
+aime24/79,aime24,,clean,no_cot,$\boxed{664}$,321,0,8,0,0,clean
+aime24/80,aime24,,clean,no_cot,$\boxed{13}$,211,0,7,0,0,clean
+aime24/81,aime24,,clean,no_cot,**120**.,315,0,7,0,0,clean
+aime24/82,aime24,,clean,no_cot,**130**,236,0,128,1,0,clean
+aime24/83,aime24,,clean,no_cot,**120**.,045,0,7,0,0,clean
+aime24/84,aime24,,clean,no_cot,$\boxed{11}$,033,0,128,1,0,clean
+aime24/85,aime24,,clean,no_cot,$\boxed{160}$,080,0,8,0,0,clean
+aime24/86,aime24,,clean,no_cot,**2024**,055,0,128,1,0,clean
+aime24/87,aime24,,clean,no_cot,**1234**,699,0,128,1,0,clean
+aime24/88,aime24,,clean,no_cot,$\boxed{130}$,127,0,128,1,0,clean
+aime24/89,aime24,,clean,no_cot,$\boxed{256}$,902,0,8,0,0,clean
+aime24/60,aime24,,clean,cot,204,204,1,1231,0,0,clean
+aime24/61,aime24,,clean,cot,,113,0,2289,0,1,clean
+aime24/62,aime24,,clean,cot,,371,0,6144,1,0,clean
+aime24/63,aime24,,clean,cot,25,385,0,2746,0,0,clean
+aime24/64,aime24,,clean,cot,,110,0,6144,1,0,clean
+aime24/65,aime24,,clean,cot,50,104,0,3626,0,0,clean
+aime24/66,aime24,,clean,cot,721,721,1,1681,0,0,clean
+aime24/67,aime24,,clean,cot,25,025,1,496,0,0,clean
+aime24/68,aime24,,clean,cot,809,809,1,1585,0,0,clean
+aime24/69,aime24,,clean,cot,116,116,1,1184,0,0,clean
+aime24/70,aime24,,clean,cot,22,104,0,3101,0,0,clean
+aime24/71,aime24,,clean,cot,294,294,1,1028,0,0,clean
+aime24/72,aime24,,clean,cot,540,540,1,991,0,0,clean
+aime24/73,aime24,,clean,cot,254,197,0,1054,0,0,clean
+aime24/74,aime24,,clean,cot,79,480,0,2123,0,0,clean
+aime24/75,aime24,,clean,cot,234,073,0,634,0,0,clean
+aime24/76,aime24,,clean,cot,2028,468,0,1873,0,0,clean
+aime24/77,aime24,,clean,cot,4,601,0,2010,0,0,clean
+aime24/78,aime24,,clean,cot,2,023,0,3397,0,0,clean
+aime24/79,aime24,,clean,cot,,321,0,1059,0,1,clean
+aime24/80,aime24,,clean,cot,,211,0,6144,1,0,clean
+aime24/81,aime24,,clean,cot,1980,315,0,1043,0,0,clean
+aime24/82,aime24,,clean,cot,,236,0,929,0,1,clean
+aime24/83,aime24,,clean,cot,135,045,0,2562,0,0,clean
+aime24/84,aime24,,clean,cot,33,033,1,2258,0,0,clean
+aime24/85,aime24,,clean,cot,,080,0,887,0,1,clean
+aime24/86,aime24,,clean,cot,,055,0,6144,1,0,clean
+aime24/87,aime24,,clean,cot,,699,0,3408,0,1,clean
+aime24/88,aime24,,clean,cot,,127,0,6144,1,0,clean
+aime24/89,aime24,,clean,cot,,902,0,1589,0,1,clean
+aime24/60,aime24,,random,cot,204,204,1,2965,0,0,frozen_n3
+aime24/61,aime24,,random,cot,,113,0,574,0,1,frozen_n3
+aime24/62,aime24,,random,cot,,371,0,1258,0,1,frozen_n3
+aime24/60,aime24,,heavy,cot,} 204,204,1,1724,0,0,frozen_n3
+aime24/61,aime24,,heavy,cot,,113,0,1004,0,1,frozen_n3
+aime24/62,aime24,,heavy,cot,,371,0,728,0,1,frozen_n3
+aime24/63,aime24,,heavy,cot,,385,0,511,0,1,frozen_n3
+aime24/64,aime24,,heavy,cot,,110,0,789,0,1,frozen_n3
+aime24/65,aime24,,heavy,cot,,104,0,1047,0,1,frozen_n3
+aime24/66,aime24,,heavy,cot,,721,0,1736,0,1,frozen_n3
+aime24/67,aime24,,heavy,cot,,025,0,514,0,1,frozen_n3
+aime24/68,aime24,,heavy,cot,,809,0,1514,0,1,frozen_n3
+aime24/69,aime24,,heavy,cot,,116,0,1145,0,1,frozen_n3
+aime24/70,aime24,,heavy,cot,---,104,0,775,0,1,frozen_n3
+aime24/71,aime24,,heavy,cot,90,294,0,1013,0,0,frozen_n3
+aime24/72,aime24,,heavy,cot,540,540,1,1337,0,0,frozen_n3
+aime24/73,aime24,,heavy,cot,,197,0,6144,1,0,frozen_n3
+aime24/74,aime24,,heavy,cot,,480,0,534,0,1,frozen_n3
+aime24/75,aime24,,heavy,cot,,073,0,800,0,1,frozen_n3
+aime24/76,aime24,,heavy,cot,180,468,0,644,0,0,frozen_n3
+aime24/77,aime24,,heavy,cot,,601,0,1334,0,1,frozen_n3
+aime24/78,aime24,,heavy,cot,,023,0,1662,0,1,frozen_n3
+aime24/79,aime24,,heavy,cot,,321,0,1511,0,1,frozen_n3
+aime24/80,aime24,,heavy,cot,,211,0,1402,0,1,frozen_n3
+aime24/81,aime24,,heavy,cot,,315,0,737,0,1,frozen_n3
+aime24/82,aime24,,heavy,cot,,236,0,962,0,1,frozen_n3
+aime24/83,aime24,,heavy,cot,,045,0,2417,0,1,frozen_n3
+aime24/84,aime24,,heavy,cot,23,033,0,2085,0,0,frozen_n3
+aime24/85,aime24,,heavy,cot,,080,0,784,0,1,frozen_n3
+aime24/86,aime24,,heavy,cot,,055,0,1811,0,1,frozen_n3
+aime24/87,aime24,,heavy,cot,} 1008,699,0,1274,0,0,frozen_n3
+aime24/88,aime24,,heavy,cot,,127,0,945,0,1,frozen_n3
+aime24/89,aime24,,heavy,cot,,902,0,582,0,1,frozen_n3
+aime24/63,aime24,,random,cot,,385,0,3302,0,1,frozen_n3
+aime24/64,aime24,,random,cot,,110,0,6144,1,0,frozen_n3
+aime24/65,aime24,,random,cot,"After a long and detailed computation, the",104,0,6144,1,0,frozen_n3
+aime24/66,aime24,,random,cot,721,721,1,2202,0,0,frozen_n3
+aime24/67,aime24,,random,cot,25,025,1,629,0,0,frozen_n3
+aime24/68,aime24,,random,cot,1213,809,0,2347,0,0,frozen_n3
+aime24/69,aime24,,random,cot,116,116,1,1119,0,0,frozen_n3
+aime24/70,aime24,,random,cot,,104,0,3763,0,1,frozen_n3
+aime24/71,aime24,,random,cot,294,294,1,1385,0,0,frozen_n3
+aime24/72,aime24,,random,cot,540,540,1,1552,0,0,frozen_n3
+aime24/73,aime24,,random,cot,123,197,0,2820,0,0,frozen_n3
+aime24/74,aime24,,random,cot,80,480,0,2164,0,0,frozen_n3
+aime24/75,aime24,,random,cot,234,073,0,673,0,0,frozen_n3
+aime24/76,aime24,,random,cot,156,468,0,2079,0,0,frozen_n3
+aime24/77,aime24,,random,cot,1,601,0,2090,0,0,frozen_n3
+aime24/78,aime24,,random,cot,,023,0,2713,0,1,frozen_n3
+aime24/79,aime24,,random,cot,,321,0,1116,0,1,frozen_n3
+aime24/80,aime24,,random,cot,,211,0,3625,0,1,frozen_n3
+aime24/81,aime24,,random,cot,165,315,0,729,0,0,frozen_n3
+aime24/82,aime24,,random,cot,,236,0,1282,0,1,frozen_n3
+aime24/83,aime24,,random,cot,,045,0,2203,0,1,frozen_n3
+aime24/84,aime24,,random,cot,,033,0,6144,1,0,frozen_n3
+aime24/85,aime24,,random,cot,,080,0,822,0,1,frozen_n3
+aime24/86,aime24,,random,cot,,055,0,1489,0,1,frozen_n3
+aime24/87,aime24,,random,cot,405,699,0,4324,0,0,frozen_n3
+aime24/88,aime24,,random,cot,,127,0,1421,0,1,frozen_n3
+aime24/89,aime24,,random,cot,,902,0,2199,0,1,frozen_n3
+aime24/60,aime24,,medium,cot,204,204,1,1200,0,0,frozen_n3
+aime24/61,aime24,,medium,cot,103,113,0,3184,0,0,frozen_n3
+aime24/62,aime24,,medium,cot,,371,0,2094,0,1,frozen_n3
+aime24/63,aime24,,medium,cot,,385,0,1848,0,1,frozen_n3
+aime24/64,aime24,,medium,cot,,110,0,6144,1,0,frozen_n3
+aime24/65,aime24,,medium,cot,86,104,0,3461,0,0,frozen_n3
+aime24/66,aime24,,medium,cot,,721,0,1054,0,1,frozen_n3
+aime24/67,aime24,,medium,cot,25,025,1,468,0,0,frozen_n3
+aime24/68,aime24,,medium,cot,,809,0,1112,0,1,frozen_n3
+aime24/69,aime24,,medium,cot,116,116,1,1472,0,0,frozen_n3
+aime24/70,aime24,,medium,cot,77,104,0,5025,0,0,frozen_n3
+aime24/71,aime24,,medium,cot,147,294,0,959,0,0,frozen_n3
+aime24/72,aime24,,medium,cot,540,540,1,1385,0,0,frozen_n3
+aime24/73,aime24,,medium,cot,2025,197,0,893,0,0,frozen_n3
+aime24/74,aime24,,medium,cot,80,480,0,2047,0,0,frozen_n3
+aime24/75,aime24,,medium,cot,,073,0,584,0,1,frozen_n3
+aime24/76,aime24,,medium,cot,26,468,0,515,0,0,frozen_n3
+aime24/77,aime24,,medium,cot,,601,0,4138,0,1,frozen_n3
+aime24/78,aime24,,medium,cot,,023,0,1102,0,1,frozen_n3
+aime24/79,aime24,,medium,cot,65,321,0,1768,0,0,frozen_n3
+aime24/80,aime24,,medium,cot,,211,0,6144,1,0,frozen_n3
+aime24/81,aime24,,medium,cot,204,315,0,625,0,0,frozen_n3
+aime24/82,aime24,,medium,cot,,236,0,787,0,1,frozen_n3
+aime24/83,aime24,,medium,cot,,045,0,1130,0,1,frozen_n3
+aime24/84,aime24,,medium,cot,} 33,033,1,2842,0,0,frozen_n3
+aime24/85,aime24,,medium,cot,,080,0,1035,0,1,frozen_n3
+aime24/86,aime24,,medium,cot,,055,0,3097,0,1,frozen_n3
+aime24/87,aime24,,medium,cot,,699,0,3030,0,1,frozen_n3
+aime24/88,aime24,,medium,cot,,127,0,1092,0,1,frozen_n3
+aime24/89,aime24,,medium,cot,,902,0,610,0,1,frozen_n3
+aime24/60,aime24,,light,cot,204,204,1,1460,0,0,frozen_n3
+aime24/61,aime24,,light,cot,13,113,0,1141,0,0,frozen_n3
+aime24/62,aime24,,light,cot,,371,0,1118,0,1,frozen_n3
+aime24/63,aime24,,light,cot,,385,0,2240,0,1,frozen_n3
+aime24/64,aime24,,light,cot,,110,0,6144,1,0,frozen_n3
+aime24/65,aime24,,light,cot,,104,0,6144,1,0,frozen_n3
+aime24/66,aime24,,light,cot,,721,0,1690,0,1,frozen_n3
+aime24/67,aime24,,light,cot,,025,0,6144,1,0,frozen_n3
+aime24/68,aime24,,light,cot,,809,0,1744,0,1,frozen_n3
+aime24/69,aime24,,light,cot,} 116,116,1,1285,0,0,frozen_n3
+aime24/70,aime24,,light,cot,,104,0,6144,1,0,frozen_n3
+aime24/71,aime24,,light,cot,} 147,294,0,1226,0,0,frozen_n3
+aime24/72,aime24,,light,cot,512,540,0,3461,0,1,frozen_n3
+aime24/73,aime24,,light,cot,} 4047,197,0,1341,0,0,frozen_n3
+aime24/74,aime24,,light,cot,,480,0,2083,0,1,frozen_n3
+aime24/75,aime24,,light,cot,234,073,0,767,0,0,frozen_n3
+aime24/76,aime24,,light,cot,384,468,0,906,0,0,frozen_n3
+aime24/77,aime24,,light,cot,,601,0,1303,0,1,frozen_n3
+aime24/78,aime24,,light,cot,,023,0,1122,0,1,frozen_n3
+aime24/79,aime24,,light,cot,,321,0,1014,0,1,frozen_n3
+aime24/80,aime24,,light,cot,,211,0,6144,1,0,frozen_n3
+aime24/81,aime24,,light,cot,24,315,0,815,0,0,frozen_n3
+aime24/82,aime24,,light,cot,,236,0,783,0,1,frozen_n3
+aime24/83,aime24,,light,cot,} 0,045,0,3118,0,0,frozen_n3
+aime24/84,aime24,,light,cot,} 33,033,1,1977,0,0,frozen_n3
+aime24/85,aime24,,light,cot,,080,0,6144,1,0,frozen_n3
+aime24/86,aime24,,light,cot,,055,0,6144,1,0,frozen_n3
+aime24/87,aime24,,light,cot,} 1008,699,0,1004,0,0,frozen_n3
+aime24/88,aime24,,light,cot,,127,0,1520,0,1,frozen_n3
+aime24/89,aime24,,light,cot,450,902,0,1832,0,0,frozen_n3
+aime24/60,aime24,,heavy,no_cot,168,204,0,23,0,0,frozen_n3
+aime24/61,aime24,,heavy,no_cot,"$ \frac{35}{2} $, so $ m + n = 35 + 2 = 37 $",113,0,37,0,0,frozen_n3
+aime24/62,aime24,,heavy,no_cot,$\boxed{113} $,371,0,9,0,0,frozen_n3
+aime24/63,aime24,,heavy,no_cot,$\boxed{36}$,385,0,7,0,0,frozen_n3
+aime24/64,aime24,,heavy,no_cot,$ \boxed{11} $,110,0,9,0,0,frozen_n3
+aime24/65,aime24,,heavy,no_cot,"$ \frac{6 \sqrt{10} }{ 5} $, so $ m = 6, n = 10, p = 5 $, and $ m + n + p = 6 + 10 + 5 = 21 $.",104,0,71,0,0,frozen_n3
+aime24/66,aime24,,heavy,no_cot,$ \boxed{61} $,721,0,128,1,0,frozen_n3
+aime24/67,aime24,,heavy,no_cot,$ \boxed{10000} $,025,0,12,0,0,frozen_n3
+aime24/68,aime24,,heavy,no_cot,$ \boxed{674} $,809,0,128,1,0,frozen_n3
+aime24/69,aime24,,heavy,no_cot,$\boxed{161} $,116,0,128,1,0,frozen_n3
+aime24/70,aime24,,heavy,no_cot,$ \boxed{170} $,104,0,10,0,0,frozen_n3
+aime24/71,aime24,,heavy,no_cot,$ \boxed{1680} $,294,0,11,0,0,frozen_n3
+aime24/72,aime24,,heavy,no_cot,$ \boxed{144} $,540,0,10,0,0,frozen_n3
+aime24/73,aime24,,heavy,no_cot,"$ \frac{2024 \times 34}{2023} $, so $ m = 2024 \times 34 $, $ n = 2023 $, and $ m $ and $ n $ are relatively prime. Then $ m + n = 2024 \times 34 + 2023 $. Let's compute that.",197,0,128,1,0,frozen_n3
+aime24/74,aime24,,heavy,no_cot,$ \boxed{32} $,480,0,9,0,0,frozen_n3
+aime24/75,aime24,,heavy,no_cot,102,073,0,128,1,0,frozen_n3
+aime24/76,aime24,,heavy,no_cot,$ \boxed{180} $,468,0,10,0,0,frozen_n3
+aime24/77,aime24,,heavy,no_cot,$ \boxed{101 $,601,0,93,0,0,frozen_n3
+aime24/78,aime24,,heavy,no_cot,$ \boxed{58} $,023,0,128,1,0,frozen_n3
+aime24/79,aime24,,heavy,no_cot,$\boxed{500} $,321,0,9,0,0,frozen_n3
+aime24/80,aime24,,heavy,no_cot,$ \boxed{27} $,211,0,9,0,0,frozen_n3
+aime24/81,aime24,,heavy,no_cot,$\boxed{1560}$,315,0,9,0,0,frozen_n3
+aime24/82,aime24,,heavy,no_cot,$ \sum \text{of the squares of the list} = 245 $,236,0,128,1,0,frozen_n3
+aime24/83,aime24,,heavy,no_cot,$\boxed{240}$,045,0,8,0,0,frozen_n3
+aime24/84,aime24,,heavy,no_cot,$\boxed{35}$,033,0,128,1,0,frozen_n3
+aime24/85,aime24,,heavy,no_cot,$ \boxed{120} $,080,0,10,0,0,frozen_n3
+aime24/86,aime24,,heavy,no_cot,$ \boxed{2025} $,055,0,128,1,0,frozen_n3
+aime24/87,aime24,,heavy,no_cot,$ \boxed{1001} $,699,0,11,0,0,frozen_n3
+aime24/88,aime24,,heavy,no_cot,$ \boxed{65} $,127,0,128,1,0,frozen_n3
+aime24/89,aime24,,heavy,no_cot,$ \boxed{266 } $,902,0,10,0,0,frozen_n3
+aime24/60,aime24,,random,no_cot,**130**,204,0,128,1,0,frozen_n3
+aime24/61,aime24,,random,no_cot,$\boxed{131}$,113,0,8,0,0,frozen_n3
+aime24/62,aime24,,random,no_cot,$\boxed{115}$,371,0,8,0,0,frozen_n3
+aime24/63,aime24,,random,no_cot,$\boxed{12}$,385,0,7,0,0,frozen_n3
+aime24/64,aime24,,random,no_cot,$\boxed{2}$,110,0,128,1,0,frozen_n3
+aime24/65,aime24,,random,no_cot,$\boxed{112}$,104,0,128,1,0,frozen_n3
+aime24/66,aime24,,random,no_cot,$\boxed{130}$,721,0,8,0,0,frozen_n3
+aime24/67,aime24,,random,no_cot,$\boxed{100}$,025,0,8,0,0,frozen_n3
+aime24/68,aime24,,random,no_cot,$\boxed{1012}$,809,0,128,1,0,frozen_n3
+aime24/69,aime24,,random,no_cot,$\boxed{130}$,116,0,128,1,0,frozen_n3
+aime24/70,aime24,,random,no_cot,$\boxed{253}$,104,0,8,0,0,frozen_n3
+aime24/71,aime24,,random,no_cot,$\boxed{14}$,294,0,7,0,0,frozen_n3
+aime24/72,aime24,,random,no_cot,$\boxed{100}$,540,0,8,0,0,frozen_n3
+aime24/73,aime24,,random,no_cot,$\boxed{2025}$,197,0,128,1,0,frozen_n3
+aime24/74,aime24,,random,no_cot,$\boxed{24}$,480,0,7,0,0,frozen_n3
+aime24/75,aime24,,random,no_cot,**123**.,073,0,7,0,0,frozen_n3
+aime24/76,aime24,,random,no_cot,$\boxed{312}$,468,0,8,0,0,frozen_n3
+aime24/77,aime24,,random,no_cot,$\boxed{3}$,601,0,6,0,0,frozen_n3
+aime24/78,aime24,,random,no_cot,$\boxed{13}$,023,0,7,0,0,frozen_n3
+aime24/79,aime24,,random,no_cot,$\boxed{1000}$,321,0,9,0,0,frozen_n3
+aime24/80,aime24,,random,no_cot,$\boxed{13}$,211,0,7,0,0,frozen_n3
+aime24/81,aime24,,random,no_cot,**165**.,315,0,7,0,0,frozen_n3
+aime24/82,aime24,,random,no_cot,$\boxed{330}$,236,0,8,0,0,frozen_n3
+aime24/83,aime24,,random,no_cot,$\boxed{12}$,045,0,7,0,0,frozen_n3
+aime24/84,aime24,,random,no_cot,$\boxed{11}$,033,0,7,0,0,frozen_n3
+aime24/85,aime24,,random,no_cot,$\boxed{160}$,080,0,8,0,0,frozen_n3
+aime24/86,aime24,,random,no_cot,$\boxed{2023}$,055,0,128,1,0,frozen_n3
+aime24/87,aime24,,random,no_cot,$\boxed{1111}$,699,0,128,1,0,frozen_n3
+aime24/88,aime24,,random,no_cot,$\boxed{130}$,127,0,128,1,0,frozen_n3
+aime24/89,aime24,,random,no_cot,$\boxed{126}$,902,0,8,0,0,frozen_n3
+aime24/60,aime24,,medium,no_cot,120,204,0,46,0,0,frozen_n3
+aime24/61,aime24,,medium,no_cot,$ \boxed{113} $,113,1,128,1,0,frozen_n3
+aime24/62,aime24,,medium,no_cot,$\boxed{119}$,371,0,90,0,0,frozen_n3
+aime24/63,aime24,,medium,no_cot,$\boxed{24}$,385,0,7,0,0,frozen_n3
+aime24/64,aime24,,medium,no_cot,$ \boxed{5} $,110,0,8,0,0,frozen_n3
+aime24/65,aime24,,medium,no_cot,$ \boxed{110} $,104,0,128,1,0,frozen_n3
+aime24/66,aime24,,medium,no_cot,$ \boxed{115} $,721,0,128,1,0,frozen_n3
+aime24/67,aime24,,medium,no_cot,$ \boxed{100} $,025,0,10,0,0,frozen_n3
+aime24/68,aime24,,medium,no_cot,$ \boxed{674} $,809,0,128,1,0,frozen_n3
+aime24/69,aime24,,medium,no_cot,$ \boxed{161} $,116,0,128,1,0,frozen_n3
+aime24/70,aime24,,medium,no_cot,$ \boxed{253} $,104,0,10,0,0,frozen_n3
+aime24/71,aime24,,medium,no_cot,$ \boxed{1680} $,294,0,11,0,0,frozen_n3
+aime24/72,aime24,,medium,no_cot,$ \boxed{144} $,540,0,10,0,0,frozen_n3
+aime24/73,aime24,,medium,no_cot,$ \boxed{2025} $,197,0,128,1,0,frozen_n3
+aime24/74,aime24,,medium,no_cot,$ \boxed{48} $,480,0,9,0,0,frozen_n3
+aime24/75,aime24,,medium,no_cot,102,073,0,5,0,0,frozen_n3
+aime24/76,aime24,,medium,no_cot,$ \boxed{325} $,468,0,10,0,0,frozen_n3
+aime24/77,aime24,,medium,no_cot,$ \boxed{301} $,601,0,10,0,0,frozen_n3
+aime24/78,aime24,,medium,no_cot,$ \boxed{5} $,023,0,128,1,0,frozen_n3
+aime24/79,aime24,,medium,no_cot,$\boxed{872}$,321,0,8,0,0,frozen_n3
+aime24/80,aime24,,medium,no_cot,$ \boxed{101} $,211,0,10,0,0,frozen_n3
+aime24/81,aime24,,medium,no_cot,$ \boxed{204} $,315,0,10,0,0,frozen_n3
+aime24/82,aime24,,medium,no_cot,$ \boxed{343} $,236,0,128,1,0,frozen_n3
+aime24/83,aime24,,medium,no_cot,$\boxed{360}$,045,0,8,0,0,frozen_n3
+aime24/84,aime24,,medium,no_cot,$\boxed{35}$,033,0,128,1,0,frozen_n3
+aime24/85,aime24,,medium,no_cot,$ \boxed{160} $,080,0,10,0,0,frozen_n3
+aime24/86,aime24,,medium,no_cot,$ \boxed{2023} $,055,0,128,1,0,frozen_n3
+aime24/87,aime24,,medium,no_cot,$ \boxed{1234} $,699,0,11,0,0,frozen_n3
+aime24/88,aime24,,medium,no_cot,$\boxed{130}$,127,0,128,1,0,frozen_n3
+aime24/89,aime24,,medium,no_cot,$ \boxed{672} $,902,0,10,0,0,frozen_n3
+aime24/60,aime24,,light,no_cot,120 minutes.,204,0,7,0,0,frozen_n3
+aime24/61,aime24,,light,no_cot,$\boxed{113}$,113,1,128,1,0,frozen_n3
+aime24/62,aime24,,light,no_cot,$\boxed{113}$,371,0,8,0,0,frozen_n3
+aime24/63,aime24,,light,no_cot,$\boxed{48}$,385,0,7,0,0,frozen_n3
+aime24/64,aime24,,light,no_cot,$ \boxed{26} $,110,0,9,0,0,frozen_n3
+aime24/65,aime24,,light,no_cot,$\boxed{110}$,104,0,128,1,0,frozen_n3
+aime24/66,aime24,,light,no_cot,$\boxed{130}$,721,0,8,0,0,frozen_n3
+aime24/67,aime24,,light,no_cot,$ \boxed{100} $,025,0,10,0,0,frozen_n3
+aime24/68,aime24,,light,no_cot,$ \boxed{674} $,809,0,10,0,0,frozen_n3
+aime24/69,aime24,,light,no_cot,$\boxed{130}$,116,0,128,1,0,frozen_n3
+aime24/70,aime24,,light,no_cot,$ \boxed{253} $,104,0,10,0,0,frozen_n3
+aime24/71,aime24,,light,no_cot,$\boxed{70}$,294,0,7,0,0,frozen_n3
+aime24/72,aime24,,light,no_cot,$\boxed{144}$,540,0,8,0,0,frozen_n3
+aime24/73,aime24,,light,no_cot,$\boxed{2025}$,197,0,128,1,0,frozen_n3
+aime24/74,aime24,,light,no_cot,$\boxed{48}$,480,0,7,0,0,frozen_n3
+aime24/75,aime24,,light,no_cot,123,073,0,5,0,0,frozen_n3
+aime24/76,aime24,,light,no_cot,$\boxed{325}$,468,0,8,0,0,frozen_n3
+aime24/77,aime24,,light,no_cot,$\boxed{301}$,601,0,8,0,0,frozen_n3
+aime24/78,aime24,,light,no_cot,$\boxed{31}$,023,0,128,1,0,frozen_n3
+aime24/79,aime24,,light,no_cot,$\boxed{500}$,321,0,8,0,0,frozen_n3
+aime24/80,aime24,,light,no_cot,$ \boxed{17} $,211,0,9,0,0,frozen_n3
+aime24/81,aime24,,light,no_cot,$\boxed{36}$,315,0,7,0,0,frozen_n3
+aime24/82,aime24,,light,no_cot,$ \boxed{345} $,236,0,10,0,0,frozen_n3
+aime24/83,aime24,,light,no_cot,$\boxed{36}$,045,0,7,0,0,frozen_n3
+aime24/84,aime24,,light,no_cot,$\boxed{35}$,033,0,128,1,0,frozen_n3
+aime24/85,aime24,,light,no_cot,$ \boxed{160} $,080,0,10,0,0,frozen_n3
+aime24/86,aime24,,light,no_cot,$\boxed{2023}$,055,0,128,1,0,frozen_n3
+aime24/87,aime24,,light,no_cot,$ \boxed{1234} $,699,0,11,0,0,frozen_n3
+aime24/88,aime24,,light,no_cot,$\boxed{130}$,127,0,128,1,0,frozen_n3
+aime24/89,aime24,,light,no_cot,$\boxed{260}$,902,0,8,0,0,frozen_n3

@@ -1,0 +1,1001 @@
+id,dataset,level,condition,arm,pred,gold,correct,n_tokens,hit_cap,looped,config
+test/precalculus/43.json,math500,1,clean,cot,"\text{Final answer: } (15, -29)","(15,-29)",0,209,0,0,clean
+test/precalculus/1289.json,math500,1,clean,cot,-41,-41,1,199,0,0,clean
+test/algebra/849.json,math500,1,clean,cot,18,18,1,183,0,0,clean
+test/intermediate_algebra/134.json,math500,1,clean,cot,-50,-50,1,260,0,0,clean
+test/prealgebra/307.json,math500,1,clean,cot,240,240,1,167,0,0,clean
+test/prealgebra/1272.json,math500,1,clean,cot,\frac{13}{15},\frac{13}{15},1,188,0,0,clean
+test/prealgebra/996.json,math500,1,clean,cot,9,9,1,406,0,0,clean
+test/prealgebra/1747.json,math500,1,clean,cot,1,1,1,174,0,0,clean
+test/algebra/114.json,math500,1,clean,cot,4,4,1,317,0,0,clean
+test/intermediate_algebra/1714.json,math500,1,clean,cot,"(5, \infty)","(5,\infty)",1,294,0,0,clean
+test/intermediate_algebra/1572.json,math500,2,clean,cot,5,5,1,375,0,0,clean
+test/prealgebra/1622.json,math500,2,clean,cot,42,42,1,345,0,0,clean
+test/prealgebra/930.json,math500,2,clean,cot,12,12,1,269,0,0,clean
+test/algebra/1255.json,math500,2,clean,cot,6,6,1,195,0,0,clean
+test/number_theory/234.json,math500,2,clean,cot,16,16,1,480,0,0,clean
+test/prealgebra/1114.json,math500,2,clean,cot,15,15\mbox{ cm}^2,1,559,0,0,clean
+test/precalculus/441.json,math500,2,clean,cot,30,30^\circ,1,514,0,0,clean
+test/algebra/2593.json,math500,2,clean,cot,8000,8000,1,268,0,0,clean
+test/number_theory/46.json,math500,2,clean,cot,40_9,40_9,1,307,0,0,clean
+test/precalculus/695.json,math500,2,clean,cot,"\text{Final answer: } (-\infty, 0]","(-\infty, 0]",1,672,0,0,clean
+test/number_theory/22.json,math500,3,clean,cot,2,2,1,496,0,0,clean
+test/prealgebra/631.json,math500,3,clean,cot,2,2,1,568,0,0,clean
+test/precalculus/477.json,math500,3,clean,cot,3\sqrt{5},3 \sqrt{5},1,698,0,0,clean
+test/geometry/477.json,math500,3,clean,cot,216,216,1,274,0,0,clean
+test/prealgebra/1238.json,math500,3,clean,cot,2,2,1,256,0,0,clean
+test/precalculus/356.json,math500,3,clean,cot,y = -2x,y = -2x,1,348,0,0,clean
+test/algebra/1553.json,math500,3,clean,cot,\text{Final answer: } 3,3,1,766,0,0,clean
+test/geometry/843.json,math500,3,clean,cot,6\sqrt{2},6\sqrt{2},1,399,0,0,clean
+test/precalculus/801.json,math500,3,clean,cot,67^\circ,55^\circ,0,500,0,0,clean
+test/algebra/1936.json,math500,3,clean,cot,-1,-1,1,191,0,0,clean
+test/intermediate_algebra/1210.json,math500,4,clean,cot,\text{Final answer: } -13x + 3,-13x+3,1,1032,0,0,clean
+test/prealgebra/1356.json,math500,4,clean,cot,\text{Final answer: } \frac{4}{9},\frac{4}{9},1,413,0,0,clean
+test/geometry/473.json,math500,4,clean,cot,864,864 \mbox{ inches}^2,1,314,0,0,clean
+test/algebra/2253.json,math500,4,clean,cot,\frac{3\sqrt{3}}{4},\frac{3\sqrt{3}}{4},1,295,0,0,clean
+test/intermediate_algebra/90.json,math500,4,clean,cot,456,898,0,2674,0,0,clean
+test/prealgebra/993.json,math500,4,clean,cot,1250,1250,1,266,0,0,clean
+test/prealgebra/1991.json,math500,4,clean,cot,Navin,\text{Navin},1,539,0,0,clean
+test/intermediate_algebra/1981.json,math500,4,clean,cot,"(2, 12) \cup (12, 102)","(2,12) \cup (12,102)",0,639,0,0,clean
+test/algebra/2058.json,math500,4,clean,cot,13,13,1,796,0,0,clean
+test/algebra/621.json,math500,4,clean,cot,3.21,3.21,1,328,0,0,clean
+test/intermediate_algebra/1467.json,math500,5,clean,cot,\frac{4}{16n^4 + 7n^2 + 4},8n^2 + 4n + 1,0,2793,0,0,clean
+test/algebra/776.json,math500,5,clean,cot,-2,-2,1,284,0,0,clean
+test/intermediate_algebra/1166.json,math500,5,clean,cot,120,100,0,2843,0,0,clean
+test/algebra/2779.json,math500,5,clean,cot,20,20,1,2399,0,0,clean
+test/intermediate_algebra/1510.json,math500,5,clean,cot,,0,0,4096,1,0,clean
+test/intermediate_algebra/279.json,math500,5,clean,cot,9,10,0,800,0,0,clean
+test/counting_and_probability/159.json,math500,5,clean,cot,28800,28800,1,408,0,0,clean
+test/algebra/1837.json,math500,5,clean,cot,5,5,1,841,0,0,clean
+test/algebra/1282.json,math500,5,clean,cot,21,11,0,551,0,0,clean
+test/algebra/2780.json,math500,5,clean,cot,18.90,\$18.90,1,781,0,0,clean
+test/precalculus/43.json,math500,1,heavy,cot,"} (15, -29)","(15,-29)",0,304,0,0,frozen_n3
+test/precalculus/1289.json,math500,1,heavy,cot,-41,-41,1,266,0,0,frozen_n3
+test/algebra/849.json,math500,1,heavy,cot,18,18,1,176,0,0,frozen_n3
+test/intermediate_algebra/134.json,math500,1,heavy,cot,-50,-50,1,251,0,0,frozen_n3
+test/prealgebra/307.json,math500,1,heavy,cot,240,240,1,144,0,0,frozen_n3
+test/prealgebra/1272.json,math500,1,heavy,cot,\frac{13}{15},\frac{13}{15},1,248,0,0,frozen_n3
+test/algebra/1004.json,math500,1,clean,no_cot,$ x = 4 $,4,1,7,0,0,clean
+test/algebra/114.json,math500,1,clean,no_cot,$\boxed{2}$,4,0,6,0,0,clean
+test/algebra/1214.json,math500,1,clean,no_cot,$ \boxed{1} $,1,1,8,0,0,clean
+test/algebra/24.json,math500,1,clean,no_cot,2000 calories.,2000,1,8,0,0,clean
+test/algebra/2551.json,math500,1,clean,no_cot,$14$,10,0,5,0,0,clean
+test/algebra/2592.json,math500,1,clean,no_cot,2500.,26000,0,7,0,0,clean
+test/algebra/2789.json,math500,1,clean,no_cot,33,47,0,4,0,0,clean
+test/algebra/567.json,math500,1,clean,no_cot,$\boxed{1}$,1,1,6,0,0,clean
+test/algebra/722.json,math500,1,clean,no_cot,9901,9901,1,6,0,0,clean
+test/algebra/849.json,math500,1,clean,no_cot,$ f(-2) = 5(-2)^2 + 3(-2) + 4 = 20 - 6 + 4 = 18 $.,18,1,37,0,0,clean
+test/algebra/988.json,math500,1,clean,no_cot,$ x = 11 $,11,1,8,0,0,clean
+test/counting_and_probability/14.json,math500,1,clean,no_cot,$\boxed{\dfrac{1}{4}}$,\frac14,1,12,0,0,clean
+test/counting_and_probability/761.json,math500,1,clean,no_cot,1.,3,0,4,0,0,clean
+test/geometry/226.json,math500,1,clean,no_cot,$\boxed{120}$,180^\circ,0,8,0,0,clean
+test/intermediate_algebra/1102.json,math500,1,clean,no_cot,"$-7, -2, 1$","-2,1",0,11,0,0,clean
+test/intermediate_algebra/134.json,math500,1,clean,no_cot,$-50$,-50,1,6,0,0,clean
+test/intermediate_algebra/1714.json,math500,1,clean,no_cot,"$(5, \infty)$","(5,\infty)",1,8,0,0,clean
+test/intermediate_algebra/431.json,math500,1,clean,no_cot,$(a + 5)(b + 2)$,(a+5)(b+2),1,12,0,0,clean
+test/intermediate_algebra/752.json,math500,1,clean,no_cot,$\boxed{\log_2{7}}$,3,0,11,0,0,clean
+test/number_theory/132.json,math500,1,clean,no_cot,0,0,1,3,0,0,clean
+test/number_theory/239.json,math500,1,clean,no_cot,**0**.,2,0,5,0,0,clean
+test/number_theory/342.json,math500,1,clean,no_cot,0.,0,1,4,0,0,clean
+test/prealgebra/105.json,math500,1,clean,no_cot,south,\text{east},0,2,0,0,clean
+test/prealgebra/1272.json,math500,1,clean,no_cot,$\frac{1}{5} + \frac{2}{3} = \frac{3}{15} + \frac{10}{15} = \frac{13}{15}$,\frac{13}{15},1,58,0,0,clean
+test/prealgebra/1747.json,math500,1,clean,no_cot,$1$,1,1,4,0,0,clean
+test/prealgebra/307.json,math500,1,clean,no_cot,240.,240,1,6,0,0,clean
+test/prealgebra/996.json,math500,1,clean,no_cot,18,9,0,4,0,0,clean
+test/precalculus/1289.json,math500,1,clean,no_cot,$-2 \cdot 3 + 0 \cdot 4 + 7 \cdot (-5) = -6 + 0 - 35 = -41$,-41,1,38,0,0,clean
+test/precalculus/1303.json,math500,1,clean,no_cot,$\boxed{8}$,\sqrt{51},0,6,0,0,clean
+test/precalculus/43.json,math500,1,clean,no_cot,"$(15, -23)$","(15,-29)",0,9,0,0,clean
+test/algebra/1255.json,math500,2,clean,no_cot,6,6,1,3,0,0,clean
+test/algebra/1265.json,math500,2,clean,no_cot,$\frac{1}{2}$,\frac{3}{2},0,8,0,0,clean
+test/algebra/1814.json,math500,2,clean,no_cot,**26**.,143,0,6,0,0,clean
+test/algebra/2214.json,math500,2,clean,no_cot,**2**.,4,0,5,0,0,clean
+test/algebra/2476.json,math500,2,clean,no_cot,90,10,0,4,0,0,clean
+test/algebra/2593.json,math500,2,clean,no_cot,$ \boxed{100} $,8000,0,10,0,0,clean
+test/algebra/2735.json,math500,2,clean,no_cot,$\frac{11a + 11}{20}$,\frac{11+9a}{20},0,15,0,0,clean
+test/algebra/2743.json,math500,2,clean,no_cot,12,29,0,4,0,0,clean
+test/algebra/346.json,math500,2,clean,no_cot,7,7,1,3,0,0,clean
+test/algebra/524.json,math500,2,clean,no_cot,**4005**.,4005,1,8,0,0,clean
+test/geometry/248.json,math500,2,clean,no_cot,**5** cm.,5,1,6,0,0,clean
+test/geometry/254.json,math500,2,clean,no_cot,2,3,0,3,0,0,clean
+test/intermediate_algebra/1217.json,math500,2,clean,no_cot,$-7$,x^5 - x^4 + x^3 - x^2 + x - 1,0,5,0,0,clean
+test/intermediate_algebra/1572.json,math500,2,clean,no_cot,$\boxed{3}$,5,0,6,0,0,clean
+test/number_theory/234.json,math500,2,clean,no_cot,**10**.,16,0,6,0,0,clean
+test/number_theory/46.json,math500,2,clean,no_cot,$40_9$,40_9,1,7,0,0,clean
+test/number_theory/627.json,math500,2,clean,no_cot,0,3,0,3,0,0,clean
+test/number_theory/931.json,math500,2,clean,no_cot,37,49,0,4,0,0,clean
+test/prealgebra/1113.json,math500,2,clean,no_cot,$ \sqrt{10 \times 15 \times 24} = \sqrt{3600} = 60 $,60,1,32,0,0,clean
+test/prealgebra/1114.json,math500,2,clean,no_cot,15 cm².,15\mbox{ cm}^2,1,7,0,0,clean
+test/prealgebra/1622.json,math500,2,clean,no_cot,42 inches.,42,1,6,0,0,clean
+test/prealgebra/1924.json,math500,2,clean,no_cot,$2k + 2$,2k+2,0,8,0,0,clean
+test/prealgebra/930.json,math500,2,clean,no_cot,**32 cm**.,12,0,7,0,0,clean
+test/precalculus/1105.json,math500,2,clean,no_cot,$-\frac{\pi}{6}$,-\frac{\pi}{6},1,9,0,0,clean
+test/precalculus/1252.json,math500,2,clean,no_cot,$\boxed{1}$,1,1,6,0,0,clean
+test/precalculus/441.json,math500,2,clean,no_cot,**$\boxed{30}$** degrees.,30^\circ,1,11,0,0,clean
+test/precalculus/452.json,math500,2,clean,no_cot,**(E) Hyperbola**.,\text{(E)},0,10,0,0,clean
+test/precalculus/695.json,math500,2,clean,no_cot,"$\boxed{(-\infty, 0]}$","(-\infty, 0]",0,13,0,0,clean
+test/precalculus/742.json,math500,2,clean,no_cot,$\boxed{0.12}$,\frac{9}{100},0,9,0,0,clean
+test/precalculus/779.json,math500,2,clean,no_cot,$ -2 + 7i $,-2 + 7i,0,9,0,0,clean
+test/algebra/1098.json,math500,3,clean,no_cot,$6 + 12i - 3i = 6 + 9i$.,6+9i,0,20,0,0,clean
+test/algebra/1275.json,math500,3,clean,no_cot,$\frac{1}{3}$,\frac{\sqrt{3}}{3},0,8,0,0,clean
+test/algebra/1547.json,math500,3,clean,no_cot,$6r^2 + 2r - 42$,6r^2-4r-24,0,15,0,0,clean
+test/algebra/1553.json,math500,3,clean,no_cot,**6**.,3,0,5,0,0,clean
+test/algebra/1936.json,math500,3,clean,no_cot,$ \boxed{-2} $,-1,0,8,0,0,clean
+test/algebra/2159.json,math500,3,clean,no_cot,$ 1 $,11,0,5,0,0,clean
+test/algebra/351.json,math500,3,clean,no_cot,1,2,0,3,0,0,clean
+test/algebra/425.json,math500,3,clean,no_cot,$-24$,-128,0,6,0,0,clean
+test/algebra/661.json,math500,3,clean,no_cot,4 miles.,36,0,5,0,0,clean
+test/algebra/694.json,math500,3,clean,no_cot,20,16,0,4,0,0,clean
+test/geometry/477.json,math500,3,clean,no_cot,**27 cubic inches**.,216,0,8,0,0,clean
+test/geometry/843.json,math500,3,clean,no_cot,$\boxed{4\sqrt{2}}$,6\sqrt{2},0,11,0,0,clean
+test/intermediate_algebra/1232.json,math500,3,clean,no_cot,$\boxed{\dfrac{\sqrt{10}}{5}}$,\frac{5}{13},0,16,0,0,clean
+test/intermediate_algebra/1247.json,math500,3,clean,no_cot,$\boxed{-4}$,-256,0,6,0,0,clean
+test/intermediate_algebra/1365.json,math500,3,clean,no_cot,$\boxed{30}$,15,0,7,0,0,clean
+test/number_theory/22.json,math500,3,clean,no_cot,**3**.,2,0,5,0,0,clean
+test/number_theory/459.json,math500,3,clean,no_cot,$\frac{1065}{20}$ inches.,\frac{639}{40},0,14,0,0,clean
+test/prealgebra/1227.json,math500,3,clean,no_cot,60,60,1,4,0,0,clean
+test/prealgebra/1238.json,math500,3,clean,no_cot,3,2,0,3,0,0,clean
+test/prealgebra/1761.json,math500,3,clean,no_cot,$ 15 $,\frac{3}{2},0,6,0,0,clean
+test/prealgebra/1787.json,math500,3,clean,no_cot,$\boxed{\left(\dfrac{5}{37}\right)^{55}}$,1,0,21,0,0,clean
+test/prealgebra/1804.json,math500,3,clean,no_cot,22.5,29,0,6,0,0,clean
+test/prealgebra/631.json,math500,3,clean,no_cot,**4 square inches**.,2,0,7,0,0,clean
+test/precalculus/1201.json,math500,3,clean,no_cot,$\boxed{113}$,11,0,128,1,0,clean
+test/precalculus/356.json,math500,3,clean,no_cot,$ y = -\frac{1}{2}x $,y = -2x,0,14,0,0,clean
+test/precalculus/477.json,math500,3,clean,no_cot,$\boxed{\sqrt{38}}$,3 \sqrt{5},0,10,0,0,clean
+test/precalculus/801.json,math500,3,clean,no_cot,$ \boxed{29^\circ} $,55^\circ,0,11,0,0,clean
+test/precalculus/819.json,math500,3,clean,no_cot,**(C) Plane**.,\text{(C)},0,8,0,0,clean
+test/precalculus/826.json,math500,3,clean,no_cot,$\boxed{-\frac{1}{8}}$,\frac{1}{16},0,12,0,0,clean
+test/precalculus/96.json,math500,3,clean,no_cot,$\boxed{3}$,\frac{7}{4},0,6,0,0,clean
+test/algebra/1072.json,math500,4,clean,no_cot,$\boxed{\frac{5}{9}}$,\frac{243}{625},0,11,0,0,clean
+test/algebra/1082.json,math500,4,clean,no_cot,$\boxed{11}$,23,0,128,1,0,clean
+test/algebra/187.json,math500,4,clean,no_cot,$\boxed{3}$,3,1,6,0,0,clean
+test/algebra/1960.json,math500,4,clean,no_cot,$\boxed{3}$,9,0,6,0,0,clean
+test/algebra/2058.json,math500,4,clean,no_cot,**11**.,13,0,6,0,0,clean
+test/algebra/2253.json,math500,4,clean,no_cot,$\boxed{\frac{3\sqrt{2}}{2}}$,\frac{3\sqrt{3}}{4},0,16,0,0,clean
+test/algebra/621.json,math500,4,clean,no_cot,**2.6 + 3.6 = 6.2**,3.21,0,41,0,0,clean
+test/counting_and_probability/1114.json,math500,4,clean,no_cot,$\boxed{\dfrac{1}{5}}$,\frac{11}{36},0,12,0,0,clean
+test/counting_and_probability/230.json,math500,4,clean,no_cot,"$\boxed{\dfrac{8}{84}}$ or simplified, $\boxed{\dfrac{2}{21}}$.",\frac{2}{21},1,28,0,0,clean
+test/counting_and_probability/339.json,math500,4,clean,no_cot,**12**.,12,1,6,0,0,clean
+test/counting_and_probability/377.json,math500,4,clean,no_cot,$\boxed{\frac{21}{125}}$,\frac{448}{15625},0,14,0,0,clean
+test/geometry/473.json,math500,4,clean,no_cot,144 square inches.,864 \mbox{ inches}^2,0,8,0,0,clean
+test/intermediate_algebra/1210.json,math500,4,clean,no_cot,$\boxed{-5x - 5}$,-13x+3,0,10,0,0,clean
+test/intermediate_algebra/1981.json,math500,4,clean,no_cot,"$ (3, 4) $","(2,12) \cup (12,102)",0,9,0,0,clean
+test/intermediate_algebra/47.json,math500,4,clean,no_cot,"$\boxed{(1, -1)}$","(-2,1)",0,10,0,0,clean
+test/intermediate_algebra/90.json,math500,4,clean,no_cot,$\boxed{0}$,898,0,6,0,0,clean
+test/number_theory/1065.json,math500,4,clean,no_cot,**11**.,17,0,6,0,0,clean
+test/number_theory/156.json,math500,4,clean,no_cot,$\boxed{5}$,13,0,6,0,0,clean
+test/number_theory/72.json,math500,4,clean,no_cot,**25**,121,0,5,0,0,clean
+test/prealgebra/1356.json,math500,4,clean,no_cot,$\frac{1}{4}$,\frac{4}{9},0,8,0,0,clean
+test/prealgebra/1973.json,math500,4,clean,no_cot,"1.666... inches per second, or $ \frac{10}{6} = \frac{5}{3} $ inches per second.",4,0,35,0,0,clean
+test/prealgebra/1991.json,math500,4,clean,no_cot,**Navin** would earn the most after working an eight-hour day.,\text{Navin},0,16,0,0,clean
+test/prealgebra/2057.json,math500,4,clean,no_cot,10 × 9 = 90.,90,1,12,0,0,clean
+test/prealgebra/874.json,math500,4,clean,no_cot,**64°**.,116,0,7,0,0,clean
+test/prealgebra/914.json,math500,4,clean,no_cot,**65 degrees**.,75^\circ,0,7,0,0,clean
+test/prealgebra/993.json,math500,4,clean,no_cot,1.25,1250,0,6,0,0,clean
+test/precalculus/190.json,math500,4,clean,no_cot,$\boxed{\dfrac{\sqrt{3}}{16}}$,\frac{9}{256},0,16,0,0,clean
+test/precalculus/499.json,math500,4,clean,no_cot,"$\boxed{[\frac{\pi^2}{4}, \pi^2]}$","\left[ \frac{\pi^2}{8}, \frac{5 \pi^2}{4} \right]",0,19,0,0,clean
+test/precalculus/920.json,math500,4,clean,no_cot,$$,\begin{pmatrix} -1 & 0 \\ 0 & -1 \end{pmatrix},0,30,0,0,clean
+test/precalculus/989.json,math500,4,clean,no_cot,$\boxed{22}$,12,0,7,0,0,clean
+test/algebra/1282.json,math500,5,clean,no_cot,$\boxed{12}$,11,0,7,0,0,clean
+test/algebra/1837.json,math500,5,clean,no_cot,**8**.,5,0,5,0,0,clean
+test/algebra/2064.json,math500,5,clean,no_cot,$\boxed{36}$,81,0,7,0,0,clean
+test/algebra/2779.json,math500,5,clean,no_cot,$\boxed{2}$,20,0,6,0,0,clean
+test/algebra/2780.json,math500,5,clean,no_cot,**\$10.50**.,\$18.90,0,10,0,0,clean
+test/algebra/297.json,math500,5,clean,no_cot,$\boxed{12}$,1736,0,7,0,0,clean
+test/algebra/776.json,math500,5,clean,no_cot,$\boxed{3}$,-2,0,6,0,0,clean
+test/algebra/892.json,math500,5,clean,no_cot,$\boxed{1}$,2,0,6,0,0,clean
+test/counting_and_probability/1003.json,math500,5,clean,no_cot,$\boxed{123}$,29,0,128,1,0,clean
+test/counting_and_probability/159.json,math500,5,clean,no_cot,**12**.,28800,0,6,0,0,clean
+test/counting_and_probability/731.json,math500,5,clean,no_cot,$\boxed{\frac{1}{k^2 + 1}}$,\frac{1}{2},0,16,0,0,clean
+test/geometry/172.json,math500,5,clean,no_cot,$\boxed{12}$,8,0,7,0,0,clean
+test/geometry/229.json,math500,5,clean,no_cot,$\boxed{24}$,16,0,128,1,0,clean
+test/geometry/826.json,math500,5,clean,no_cot,$\boxed{2\frac{1}{2}}$,1\frac{4}{5},0,13,0,0,clean
+test/geometry/880.json,math500,5,clean,no_cot,$\boxed{26}$,2\sqrt{113},0,128,1,0,clean
+test/intermediate_algebra/1166.json,math500,5,clean,no_cot,$\boxed{27}$,100,0,7,0,0,clean
+test/intermediate_algebra/1467.json,math500,5,clean,no_cot,$$,8n^2 + 4n + 1,0,17,0,0,clean
+test/intermediate_algebra/1510.json,math500,5,clean,no_cot,$\boxed{4}$,0,0,128,1,0,clean
+test/intermediate_algebra/1791.json,math500,5,clean,no_cot,$\boxed{-\frac{3}{4}}$,-\frac{3}{8},0,12,0,0,clean
+test/intermediate_algebra/2015.json,math500,5,clean,no_cot,"$\boxed{\left\{ -1, -1, 2 \right\}}$","\{1\pm\sqrt{5},-2\}",0,20,0,0,clean
+test/intermediate_algebra/279.json,math500,5,clean,no_cot,$\boxed{10}$,10,1,7,0,0,clean
+test/number_theory/13.json,math500,5,clean,no_cot,$\boxed{23}$,64,0,7,0,0,clean
+test/number_theory/820.json,math500,5,clean,no_cot,$\boxed{8}$,8,1,6,0,0,clean
+test/prealgebra/1003.json,math500,5,clean,no_cot,$\boxed{\dfrac{180}{7}}$ degrees.,\frac{270}7\text{ degrees},0,16,0,0,clean
+test/prealgebra/1251.json,math500,5,clean,no_cot,**9**.,8,0,5,0,0,clean
+test/precalculus/1133.json,math500,5,clean,no_cot,$$,3R^2,0,20,0,0,clean
+test/precalculus/323.json,math500,5,clean,no_cot,$\boxed{y = 3x + 5}$,y = 2x + 3,0,13,0,0,clean
+test/precalculus/398.json,math500,5,clean,no_cot,$\begin{pmatrix} -1 \\ 3 \end{pmatrix}$,\begin{pmatrix} 1/5 \\ -18/5 \end{pmatrix},0,18,0,0,clean
+test/precalculus/902.json,math500,5,clean,no_cot,$\boxed{10}$,\sqrt{66},0,7,0,0,clean
+test/precalculus/986.json,math500,5,clean,no_cot,$\boxed{3600}$,144,0,9,0,0,clean
+test/algebra/1004.json,math500,1,heavy,no_cot,3,4,0,3,0,0,frozen_n3
+test/algebra/114.json,math500,1,heavy,no_cot,$ \frac{4}{3} $,4,0,10,0,0,frozen_n3
+test/algebra/1214.json,math500,1,heavy,no_cot,$ k = 1 $,1,1,7,0,0,frozen_n3
+test/algebra/24.json,math500,1,heavy,no_cot,2000 calories.,2000,1,8,0,0,frozen_n3
+test/algebra/2551.json,math500,1,heavy,no_cot,14,10,0,4,0,0,frozen_n3
+test/algebra/2592.json,math500,1,heavy,no_cot,2400.,26000,0,7,0,0,frozen_n3
+test/algebra/2789.json,math500,1,heavy,no_cot,33.,47,0,5,0,0,frozen_n3
+test/algebra/567.json,math500,1,heavy,no_cot,1.,1,1,128,1,0,frozen_n3
+test/algebra/722.json,math500,1,heavy,no_cot,9999.,9901,0,7,0,0,frozen_n3
+test/algebra/849.json,math500,1,heavy,no_cot,18,18,1,107,0,0,frozen_n3
+test/algebra/988.json,math500,1,heavy,no_cot,$ x = 11 $,11,1,8,0,0,frozen_n3
+test/counting_and_probability/14.json,math500,1,heavy,no_cot,$ \frac{1}{4} $,\frac14,1,10,0,0,frozen_n3
+test/counting_and_probability/761.json,math500,1,heavy,no_cot,1,3,0,3,0,0,frozen_n3
+test/geometry/226.json,math500,1,heavy,no_cot,$ 90 $ degrees.,180^\circ,0,8,0,0,frozen_n3
+test/intermediate_algebra/1102.json,math500,1,heavy,no_cot,"-2, -1, 1, 7.","-2,1",0,13,0,0,frozen_n3
+test/intermediate_algebra/134.json,math500,1,heavy,no_cot,$ -50 $,-50,1,6,0,0,frozen_n3
+test/intermediate_algebra/1714.json,math500,1,heavy,no_cot,"$ (5, \infty) $","(5,\infty)",1,10,0,0,frozen_n3
+test/intermediate_algebra/431.json,math500,1,heavy,no_cot,(a + 5)(b + 2),(a+5)(b+2),0,12,0,0,frozen_n3
+test/intermediate_algebra/752.json,math500,1,heavy,no_cot,$ \log_2{3} \cdot \log_3{4} \cdot \log_4{5} \cdot \log_5{6} \cdot \log_6{7} \cdot \log_7{8} = \log_2{8} = 3 $.,3,1,128,1,0,frozen_n3
+test/number_theory/132.json,math500,1,heavy,no_cot,0,0,1,3,0,0,frozen_n3
+test/number_theory/239.json,math500,1,heavy,no_cot,0.,2,0,4,0,0,frozen_n3
+test/number_theory/342.json,math500,1,heavy,no_cot,0.,0,1,4,0,0,frozen_n3
+test/prealgebra/105.json,math500,1,heavy,no_cot,West.,\text{east},0,3,0,0,frozen_n3
+test/prealgebra/1272.json,math500,1,heavy,no_cot,"$ \frac{1}{5} + \frac{2}{3} = \frac{3}{15} + \frac{10}{15} = \frac{13}{15} $, so Louis and Jack eat $ \frac{13}{15} $ of the pie altogether.",\frac{13}{15},1,84,0,0,frozen_n3
+test/prealgebra/1747.json,math500,1,heavy,no_cot,$ 1 $,1,1,5,0,0,frozen_n3
+test/prealgebra/307.json,math500,1,heavy,no_cot,240,240,1,5,0,0,frozen_n3
+test/prealgebra/996.json,math500,1,heavy,no_cot,18,9,0,4,0,0,frozen_n3
+test/precalculus/1289.json,math500,1,heavy,no_cot,$-2 \cdot 3 + 0 \cdot 4 + 7 \cdot -5 = -14 $,-41,0,27,0,0,frozen_n3
+test/precalculus/1303.json,math500,1,heavy,no_cot,$ \sqrt{51} $,\sqrt{51},1,9,0,0,frozen_n3
+test/precalculus/43.json,math500,1,heavy,no_cot,"(15, -17)","(15,-29)",0,9,0,0,frozen_n3
+test/algebra/1255.json,math500,2,heavy,no_cot,6.,6,1,4,0,0,frozen_n3
+test/algebra/1265.json,math500,2,heavy,no_cot,"$ \frac{4^3}{4^2} = 4^1 = 4 $, so the power of 4 that is equal to 8 is $ 4^{\frac{3}{2}} $, and as a common fraction, it is $ \frac{3}{2} $.",\frac{3}{2},1,78,0,0,frozen_n3
+test/algebra/1814.json,math500,2,heavy,no_cot,26.,143,0,5,0,0,frozen_n3
+test/algebra/2214.json,math500,2,heavy,no_cot,$ \frac{3}{2} + 5 = \frac{13}{2} $,4,0,50,0,0,frozen_n3
+test/algebra/2476.json,math500,2,heavy,no_cot,120,10,0,128,1,0,frozen_n3
+test/algebra/2593.json,math500,2,heavy,no_cot,1521.,8000,0,7,0,0,frozen_n3
+test/algebra/2735.json,math500,2,heavy,no_cot,$ \frac{11a + 11}{20} $,\frac{11+9a}{20},0,17,0,0,frozen_n3
+test/algebra/2743.json,math500,2,heavy,no_cot,12,29,0,13,0,0,frozen_n3
+test/algebra/346.json,math500,2,heavy,no_cot,7.,7,1,4,0,0,frozen_n3
+test/algebra/524.json,math500,2,heavy,no_cot,3999.,4005,0,7,0,0,frozen_n3
+test/geometry/248.json,math500,2,heavy,no_cot,5,5,1,91,0,0,frozen_n3
+test/geometry/254.json,math500,2,heavy,no_cot,2.,3,0,4,0,0,frozen_n3
+test/intermediate_algebra/1217.json,math500,2,heavy,no_cot,$ -11 $,x^5 - x^4 + x^3 - x^2 + x - 1,0,6,0,0,frozen_n3
+test/intermediate_algebra/1572.json,math500,2,heavy,no_cot,$ \boxed{3} $,5,0,8,0,0,frozen_n3
+test/number_theory/234.json,math500,2,heavy,no_cot,13,16,0,128,1,0,frozen_n3
+test/number_theory/46.json,math500,2,heavy,no_cot,$ 41_9 $,40_9,0,8,0,0,frozen_n3
+test/number_theory/627.json,math500,2,heavy,no_cot,0,3,0,128,1,0,frozen_n3
+test/number_theory/931.json,math500,2,heavy,no_cot,55,49,0,4,0,0,frozen_n3
+test/prealgebra/1113.json,math500,2,heavy,no_cot,$ 60 $,60,1,6,0,0,frozen_n3
+test/prealgebra/1114.json,math500,2,heavy,no_cot,15 cm².,15\mbox{ cm}^2,1,7,0,0,frozen_n3
+test/prealgebra/1622.json,math500,2,heavy,no_cot,42 inches.,42,1,6,0,0,frozen_n3
+test/prealgebra/1924.json,math500,2,heavy,no_cot,$ 2k + 2 $,2k+2,0,9,0,0,frozen_n3
+test/prealgebra/930.json,math500,2,heavy,no_cot,12 cm.,12,1,6,0,0,frozen_n3
+test/precalculus/1105.json,math500,2,heavy,no_cot,$ -\frac{\pi}{6} $,-\frac{\pi}{6},1,11,0,0,frozen_n3
+test/precalculus/1252.json,math500,2,heavy,no_cot,$1$,1,1,128,1,0,frozen_n3
+test/precalculus/441.json,math500,2,heavy,no_cot,$ \approx 19.91 $ degrees,30^\circ,0,128,1,0,frozen_n3
+test/precalculus/452.json,math500,2,heavy,no_cot,$\boxed{\text{E}$. Hyperbola.,\text{(E)},0,13,0,0,frozen_n3
+test/precalculus/695.json,math500,2,heavy,no_cot,"$ (0, 1) $","(-\infty, 0]",0,9,0,0,frozen_n3
+test/precalculus/742.json,math500,2,heavy,no_cot,$ 0.096 $,\frac{9}{100},0,9,0,0,frozen_n3
+test/precalculus/779.json,math500,2,heavy,no_cot,$ -2 + 7i $,-2 + 7i,0,9,0,0,frozen_n3
+test/algebra/1098.json,math500,3,heavy,no_cot,"$ 6 + 12i - 3i = 6 + 9i $, so the result is $ 6 + 9i $.",6+9i,0,46,0,0,frozen_n3
+test/algebra/1275.json,math500,3,heavy,no_cot,$ \frac{1}{3} $,\frac{\sqrt{3}}{3},0,10,0,0,frozen_n3
+test/algebra/1547.json,math500,3,heavy,no_cot,$ 6r^2 - 2r - 24 $,6r^2-4r-24,0,16,0,0,frozen_n3
+test/algebra/1553.json,math500,3,heavy,no_cot,5,3,0,14,0,0,frozen_n3
+test/algebra/1936.json,math500,3,heavy,no_cot,$ \boxed{-2} $,-1,0,9,0,0,frozen_n3
+test/algebra/2159.json,math500,3,heavy,no_cot,$ 15 $,11,0,6,0,0,frozen_n3
+test/algebra/351.json,math500,3,heavy,no_cot,1,2,0,3,0,0,frozen_n3
+test/algebra/425.json,math500,3,heavy,no_cot,$-24 $,-128,0,6,0,0,frozen_n3
+test/algebra/661.json,math500,3,heavy,no_cot,13,36,0,38,0,0,frozen_n3
+test/algebra/694.json,math500,3,heavy,no_cot,20,16,0,4,0,0,frozen_n3
+test/geometry/477.json,math500,3,heavy,no_cot,108,216,0,19,0,0,frozen_n3
+test/geometry/843.json,math500,3,heavy,no_cot,$ 4\sqrt{2} $ cm.,6\sqrt{2},0,12,0,0,frozen_n3
+test/intermediate_algebra/1232.json,math500,3,heavy,no_cot,$ \frac{5}{13} $,\frac{5}{13},1,11,0,0,frozen_n3
+test/intermediate_algebra/1247.json,math500,3,heavy,no_cot,$ \boxed{16} $,-256,0,9,0,0,frozen_n3
+test/intermediate_algebra/1365.json,math500,3,heavy,no_cot,$ \boxed{30p - 150} $,15,0,15,0,0,frozen_n3
+test/number_theory/22.json,math500,3,heavy,no_cot,3,2,0,128,1,0,frozen_n3
+test/number_theory/459.json,math500,3,heavy,no_cot,$ \dfrac{175}{4} $ inches.,\frac{639}{40},0,15,0,0,frozen_n3
+test/prealgebra/1227.json,math500,3,heavy,no_cot,60 handshakes.,60,1,8,0,0,frozen_n3
+test/prealgebra/1238.json,math500,3,heavy,no_cot,3,2,0,3,0,0,frozen_n3
+test/prealgebra/1761.json,math500,3,heavy,no_cot,15,\frac{3}{2},0,58,0,0,frozen_n3
+test/prealgebra/1787.json,math500,3,heavy,no_cot,$ \left( \dfrac{17 }{ 37 } \right) ^ { 55} $,1,0,27,0,0,frozen_n3
+test/prealgebra/1804.json,math500,3,heavy,no_cot,43.5,29,0,128,1,0,frozen_n3
+test/prealgebra/631.json,math500,3,heavy,no_cot,$ \frac{16}{5} $ square inches.,2,0,14,0,0,frozen_n3
+test/precalculus/1201.json,math500,3,heavy,no_cot,$ \boxed{119} $,11,0,128,1,0,frozen_n3
+test/precalculus/356.json,math500,3,heavy,no_cot,$ y = -\frac{1}{2}x $,y = -2x,0,14,0,0,frozen_n3
+test/precalculus/477.json,math500,3,heavy,no_cot,$ \frac{11}{2} \sqrt{6} $,3 \sqrt{5},0,16,0,0,frozen_n3
+test/precalculus/801.json,math500,3,heavy,no_cot,$ 29^\circ $.,55^\circ,0,128,1,0,frozen_n3
+test/precalculus/819.json,math500,3,heavy,no_cot,(C) Plane.,\text{(C)},0,6,0,0,frozen_n3
+test/precalculus/826.json,math500,3,heavy,no_cot,$ \cos \left( \frac{2 \pi}{15} \right) \cos \left( \frac{4 \pi}{15} \right) \cos \left( \frac{8 \pi}{15} \right) \cos \left( \frac{16 \pi}{15} \right) = -\frac{1}{16} $.,\frac{1}{16},0,108,0,0,frozen_n3
+test/precalculus/96.json,math500,3,heavy,no_cot,$ \boxed{2} $,\frac{7}{4},0,8,0,0,frozen_n3
+test/algebra/1072.json,math500,4,heavy,no_cot,$ \frac{5}{3^5} = \frac{5}{243} $.,\frac{243}{625},0,55,0,0,frozen_n3
+test/algebra/1082.json,math500,4,heavy,no_cot,$ \boxed{11} $,23,0,128,1,0,frozen_n3
+test/algebra/187.json,math500,4,heavy,no_cot,3,3,1,128,1,0,frozen_n3
+test/algebra/1960.json,math500,4,heavy,no_cot,$ \frac{1}{2} $,9,0,10,0,0,frozen_n3
+test/algebra/2058.json,math500,4,heavy,no_cot,$ 1 + 2 + 3 + 4 = 10 $,13,0,31,0,0,frozen_n3
+test/algebra/2253.json,math500,4,heavy,no_cot,$ \frac{3\sqrt{2}}{1} = 3\sqrt{2} $,\frac{3\sqrt{3}}{4},0,48,0,0,frozen_n3
+test/algebra/621.json,math500,4,heavy,no_cot,$ 3.8 $,3.21,0,7,0,0,frozen_n3
+test/counting_and_probability/1114.json,math500,4,heavy,no_cot,$ \frac{5}{12} $,\frac{11}{36},0,11,0,0,frozen_n3
+test/counting_and_probability/230.json,math500,4,heavy,no_cot,$ \frac{1}{14} $,\frac{2}{21},0,11,0,0,frozen_n3
+test/counting_and_probability/339.json,math500,4,heavy,no_cot,12,12,1,128,1,0,frozen_n3
+test/counting_and_probability/377.json,math500,4,heavy,no_cot,$\frac{21}{625}$,\frac{448}{15625},0,11,0,0,frozen_n3
+test/geometry/473.json,math500,4,heavy,no_cot,144,864 \mbox{ inches}^2,0,29,0,0,frozen_n3
+test/intermediate_algebra/1210.json,math500,4,heavy,no_cot,$ 10x - 6 $,-13x+3,0,10,0,0,frozen_n3
+test/intermediate_algebra/1981.json,math500,4,heavy,no_cot,"$ (3, 4) $","(2,12) \cup (12,102)",0,9,0,0,frozen_n3
+test/intermediate_algebra/47.json,math500,4,heavy,no_cot,"$ \boxed{(1, 3)} $","(-2,1)",0,12,0,0,frozen_n3
+test/intermediate_algebra/90.json,math500,4,heavy,no_cot,$ \boxed{600} $,898,0,10,0,0,frozen_n3
+test/number_theory/1065.json,math500,4,heavy,no_cot,$ \boxed{11} $,17,0,9,0,0,frozen_n3
+test/number_theory/156.json,math500,4,heavy,no_cot,$ \boxed{5} $,13,0,8,0,0,frozen_n3
+test/number_theory/72.json,math500,4,heavy,no_cot,25.,121,0,5,0,0,frozen_n3
+test/prealgebra/1356.json,math500,4,heavy,no_cot,$ \frac{2}{9} $,\frac{4}{9},0,10,0,0,frozen_n3
+test/prealgebra/1973.json,math500,4,heavy,no_cot,4 inches per second.,4,1,7,0,0,frozen_n3
+test/prealgebra/1991.json,math500,4,heavy,no_cot,Luka,\text{Navin},0,19,0,0,frozen_n3
+test/prealgebra/2057.json,math500,4,heavy,no_cot,10 × 9 = 90,90,1,11,0,0,frozen_n3
+test/prealgebra/874.json,math500,4,heavy,no_cot,$ 28^\circ $,116,0,8,0,0,frozen_n3
+test/prealgebra/914.json,math500,4,heavy,no_cot,$ 105^\circ $,75^\circ,0,9,0,0,frozen_n3
+test/prealgebra/993.json,math500,4,heavy,no_cot,75,1250,0,63,0,0,frozen_n3
+test/precalculus/190.json,math500,4,heavy,no_cot,$ \frac{\sqrt{3}}{16} $,\frac{9}{256},0,14,0,0,frozen_n3
+test/precalculus/499.json,math500,4,heavy,no_cot,"$ \frac{\pi^2}{4} $ to $ \frac{4\pi^2}{4} $, so the range is $ \left( \frac{\pi^2}{4}, \pi^2 \right) $.","\left[ \frac{\pi^2}{8}, \frac{5 \pi^2}{4} \right]",0,128,1,0,frozen_n3
+test/precalculus/920.json,math500,4,heavy,no_cot,$$,\begin{pmatrix} -1 & 0 \\ 0 & -1 \end{pmatrix},0,61,0,0,frozen_n3
+test/precalculus/989.json,math500,4,heavy,no_cot,$\frac{1}{\cos^2 10^\circ} + \frac{1}{\sin^2 20^\circ} + \frac{1}{\sin^2 40^\circ} = 28 $.,12,0,60,0,0,frozen_n3
+test/algebra/1282.json,math500,5,heavy,no_cot,12,11,0,128,1,0,frozen_n3
+test/algebra/1837.json,math500,5,heavy,no_cot,6,5,0,128,1,0,frozen_n3
+test/algebra/2064.json,math500,5,heavy,no_cot,$ 49 $,81,0,6,0,0,frozen_n3
+test/algebra/2779.json,math500,5,heavy,no_cot,"$ \sqrt{2} + \sqrt{3} $ expanded to the 3rd power is $ 7\sqrt{2} + 4\sqrt{3} + 3\sqrt{6} $, so $ a = 7, b = 4, c = 3 $, and $ a + b + c = 14 $.",20,0,87,0,0,frozen_n3
+test/algebra/2780.json,math500,5,heavy,no_cot,\$12.50.,\$18.90,0,8,0,0,frozen_n3
+test/algebra/297.json,math500,5,heavy,no_cot,$ \mathbf{120} $,1736,0,11,0,0,frozen_n3
+test/algebra/776.json,math500,5,heavy,no_cot,$ \sum \text{of the coefficients of } g(x) = 11 $.,-2,0,128,1,0,frozen_n3
+test/algebra/892.json,math500,5,heavy,no_cot,$ \boxed{1} $,2,0,8,0,0,frozen_n3
+test/counting_and_probability/1003.json,math500,5,heavy,no_cot,$ \boxed{123} $,29,0,128,1,0,frozen_n3
+test/counting_and_probability/159.json,math500,5,heavy,no_cot,144,28800,0,128,1,0,frozen_n3
+test/counting_and_probability/731.json,math500,5,heavy,no_cot,$ \frac{1}{2(1 + k^2)} $,\frac{1}{2},0,128,1,0,frozen_n3
+test/geometry/172.json,math500,5,heavy,no_cot,$ \boxed{12} $,8,0,9,0,0,frozen_n3
+test/geometry/229.json,math500,5,heavy,no_cot,$ \boxed{23} $,16,0,128,1,0,frozen_n3
+test/geometry/826.json,math500,5,heavy,no_cot,$ 2\frac{1}{2} $,1\frac{4}{5},0,41,0,0,frozen_n3
+test/geometry/880.json,math500,5,heavy,no_cot,$ \sqrt{316} $ or $ 2\sqrt{79} $ (simplest radical form),2\sqrt{113},0,128,1,0,frozen_n3
+test/intermediate_algebra/1166.json,math500,5,heavy,no_cot,$ \boxed{27} $,100,0,9,0,0,frozen_n3
+test/intermediate_algebra/1467.json,math500,5,heavy,no_cot,$ \frac{17}{3} $.,8n^2 + 4n + 1,0,128,1,0,frozen_n3
+test/intermediate_algebra/1510.json,math500,5,heavy,no_cot,$ \boxed{324} $,0,0,10,0,0,frozen_n3
+test/intermediate_algebra/1791.json,math500,5,heavy,no_cot,$ \boxed{1} $,-\frac{3}{8},0,8,0,0,frozen_n3
+test/intermediate_algebra/2015.json,math500,5,heavy,no_cot,"$\{2, 2, 2\}$","\{1\pm\sqrt{5},-2\}",0,128,1,0,frozen_n3
+test/intermediate_algebra/279.json,math500,5,heavy,no_cot,$ \boxed{10} $,10,1,9,0,0,frozen_n3
+test/number_theory/13.json,math500,5,heavy,no_cot,14,64,0,128,1,0,frozen_n3
+test/number_theory/820.json,math500,5,heavy,no_cot,$ \boxed{64} $,8,0,9,0,0,frozen_n3
+test/prealgebra/1003.json,math500,5,heavy,no_cot,$ \frac{180}{7} $ degrees.,\frac{270}7\text{ degrees},0,14,0,0,frozen_n3
+test/prealgebra/1251.json,math500,5,heavy,no_cot,7,8,0,128,1,0,frozen_n3
+test/precalculus/1133.json,math500,5,heavy,no_cot,$ \boxed{a^2 + b^2 + c^2 - 12R^2 + 3GO^2} $,3R^2,0,128,1,0,frozen_n3
+test/precalculus/323.json,math500,5,heavy,no_cot,$ y = 3x + 5 $,y = 2x + 3,0,11,0,0,frozen_n3
+test/precalculus/398.json,math500,5,heavy,no_cot,$\begin{pmatrix} -1 \\ 4 \end{pmatrix} $,\begin{pmatrix} 1/5 \\ -18/5 \end{pmatrix},0,19,0,0,frozen_n3
+test/precalculus/902.json,math500,5,heavy,no_cot,$ \boxed{10} $,\sqrt{66},0,9,0,0,frozen_n3
+test/precalculus/986.json,math500,5,heavy,no_cot,$\boxed{3600}$,144,0,9,0,0,frozen_n3
+test/algebra/1004.json,math500,1,medium,no_cot,4,4,1,3,0,0,frozen_n3
+test/algebra/114.json,math500,1,medium,no_cot,$ \frac{4}{3} $,4,0,10,0,0,frozen_n3
+test/algebra/1214.json,math500,1,medium,no_cot,$ \boxed{1} $,1,1,8,0,0,frozen_n3
+test/algebra/24.json,math500,1,medium,no_cot,2000 calories.,2000,1,8,0,0,frozen_n3
+test/algebra/2551.json,math500,1,medium,no_cot,14,10,0,4,0,0,frozen_n3
+test/algebra/2592.json,math500,1,medium,no_cot,2400.,26000,0,7,0,0,frozen_n3
+test/algebra/2789.json,math500,1,medium,no_cot,33.,47,0,5,0,0,frozen_n3
+test/algebra/567.json,math500,1,medium,no_cot,$ \boxed{1} $,1,1,8,0,0,frozen_n3
+test/algebra/722.json,math500,1,medium,no_cot,9999.,9901,0,7,0,0,frozen_n3
+test/algebra/849.json,math500,1,medium,no_cot,$ f(-2) = 5(-2)^2 + 3(-2) + 4 = 20 - 6 + 4 = 18 $.,18,1,55,0,0,frozen_n3
+test/algebra/988.json,math500,1,medium,no_cot,$ x = 11 $,11,1,8,0,0,frozen_n3
+test/counting_and_probability/14.json,math500,1,medium,no_cot,$ \frac{1}{4} $,\frac14,1,10,0,0,frozen_n3
+test/counting_and_probability/761.json,math500,1,medium,no_cot,1.,3,0,4,0,0,frozen_n3
+test/geometry/226.json,math500,1,medium,no_cot,$ \boxed{120} $ degrees.,180^\circ,0,12,0,0,frozen_n3
+test/intermediate_algebra/1102.json,math500,1,medium,no_cot,"–2, 1.","-2,1",0,7,0,0,frozen_n3
+test/intermediate_algebra/134.json,math500,1,medium,no_cot,$-50$,-50,1,6,0,0,frozen_n3
+test/intermediate_algebra/1714.json,math500,1,medium,no_cot,"$(5, \infty)$","(5,\infty)",1,8,0,0,frozen_n3
+test/intermediate_algebra/431.json,math500,1,medium,no_cot,(a + 5)(b + 2),(a+5)(b+2),0,12,0,0,frozen_n3
+test/intermediate_algebra/752.json,math500,1,medium,no_cot,$ \log_2{3} \cdot \log_3{4} \cdot \log_4{5} \cdot \log_5{6} \cdot \log_6{7} \cdot \log_7{8} = \frac{\log 8}{\log 2} = \frac{3 \log 2}{\log 2} = 3 $,3,1,97,0,0,frozen_n3
+test/number_theory/132.json,math500,1,medium,no_cot,0,0,1,3,0,0,frozen_n3
+test/number_theory/239.json,math500,1,medium,no_cot,0,2,0,3,0,0,frozen_n3
+test/number_theory/342.json,math500,1,medium,no_cot,0.,0,1,4,0,0,frozen_n3
+test/prealgebra/105.json,math500,1,medium,no_cot,West.,\text{east},0,3,0,0,frozen_n3
+test/prealgebra/1272.json,math500,1,medium,no_cot,$\frac{1}{5} + \frac{2}{3} = \frac{3}{15} + \frac{10}{15} = \frac{13}{15}$,\frac{13}{15},1,59,0,0,frozen_n3
+test/prealgebra/1747.json,math500,1,medium,no_cot,$ 1 $,1,1,5,0,0,frozen_n3
+test/prealgebra/307.json,math500,1,medium,no_cot,240.,240,1,6,0,0,frozen_n3
+test/prealgebra/996.json,math500,1,medium,no_cot,18,9,0,4,0,0,frozen_n3
+test/precalculus/1289.json,math500,1,medium,no_cot,$-2 \cdot 3 + 0 \cdot 4 + 7 \cdot (-5) = -6 + 0 - 35 = -41$,-41,1,52,0,0,frozen_n3
+test/precalculus/1303.json,math500,1,medium,no_cot,$ \boxed{8} $,\sqrt{51},0,8,0,0,frozen_n3
+test/precalculus/43.json,math500,1,medium,no_cot,"$ (15, -17) $","(15,-29)",0,11,0,0,frozen_n3
+test/algebra/1255.json,math500,2,medium,no_cot,6.,6,1,4,0,0,frozen_n3
+test/algebra/1265.json,math500,2,medium,no_cot,$ \frac{4}{2} $,\frac{3}{2},0,10,0,0,frozen_n3
+test/algebra/1814.json,math500,2,medium,no_cot,26.,143,0,5,0,0,frozen_n3
+test/algebra/2214.json,math500,2,medium,no_cot,$ \boxed{2} $,4,0,8,0,0,frozen_n3
+test/algebra/2476.json,math500,2,medium,no_cot,90,10,0,4,0,0,frozen_n3
+test/algebra/2593.json,math500,2,medium,no_cot,1296.,8000,0,7,0,0,frozen_n3
+test/algebra/2735.json,math500,2,medium,no_cot,$\frac{11a + 11}{20}$,\frac{11+9a}{20},0,15,0,0,frozen_n3
+test/algebra/2743.json,math500,2,medium,no_cot,8 cents.,29,0,5,0,0,frozen_n3
+test/algebra/346.json,math500,2,medium,no_cot,7.,7,1,4,0,0,frozen_n3
+test/algebra/524.json,math500,2,medium,no_cot,4005.,4005,1,7,0,0,frozen_n3
+test/geometry/248.json,math500,2,medium,no_cot,5 cm.,5,1,5,0,0,frozen_n3
+test/geometry/254.json,math500,2,medium,no_cot,"2, 3, or 4.",3,0,11,0,0,frozen_n3
+test/intermediate_algebra/1217.json,math500,2,medium,no_cot,$-11$,x^5 - x^4 + x^3 - x^2 + x - 1,0,6,0,0,frozen_n3
+test/intermediate_algebra/1572.json,math500,2,medium,no_cot,$ \boxed{3} $,5,0,8,0,0,frozen_n3
+test/number_theory/234.json,math500,2,medium,no_cot,$ 19 $,16,0,6,0,0,frozen_n3
+test/number_theory/46.json,math500,2,medium,no_cot,$ 40_9 $,40_9,1,8,0,0,frozen_n3
+test/number_theory/627.json,math500,2,medium,no_cot,0.,3,0,4,0,0,frozen_n3
+test/number_theory/931.json,math500,2,medium,no_cot,55,49,0,4,0,0,frozen_n3
+test/prealgebra/1113.json,math500,2,medium,no_cot,$ 60 $,60,1,6,0,0,frozen_n3
+test/prealgebra/1114.json,math500,2,medium,no_cot,15 cm².,15\mbox{ cm}^2,1,7,0,0,frozen_n3
+test/prealgebra/1622.json,math500,2,medium,no_cot,42 inches.,42,1,6,0,0,frozen_n3
+test/prealgebra/1924.json,math500,2,medium,no_cot,$ 2k + 2 $,2k+2,0,9,0,0,frozen_n3
+test/prealgebra/930.json,math500,2,medium,no_cot,12 cm.,12,1,6,0,0,frozen_n3
+test/precalculus/1105.json,math500,2,medium,no_cot,$ -\frac{\pi}{6} $,-\frac{\pi}{6},1,11,0,0,frozen_n3
+test/precalculus/1252.json,math500,2,medium,no_cot,$1$,1,1,39,0,0,frozen_n3
+test/precalculus/441.json,math500,2,medium,no_cot,$ \boxed{28} $ degrees.,30^\circ,0,11,0,0,frozen_n3
+test/precalculus/452.json,math500,2,medium,no_cot,$\boxed{E}$,\text{(E)},1,6,0,0,frozen_n3
+test/precalculus/695.json,math500,2,medium,no_cot,"$ ( -\infty, 0 ) $","(-\infty, 0]",0,12,0,0,frozen_n3
+test/precalculus/742.json,math500,2,medium,no_cot,$\boxed{0.096}$,\frac{9}{100},0,10,0,0,frozen_n3
+test/precalculus/779.json,math500,2,medium,no_cot,$ -2 + 7i $,-2 + 7i,0,9,0,0,frozen_n3
+test/algebra/1098.json,math500,3,medium,no_cot,$ 6 + 12i - 3i = 6 + 9i $.,6+9i,0,36,0,0,frozen_n3
+test/algebra/1275.json,math500,3,medium,no_cot,$ \frac{1}{3} $,\frac{\sqrt{3}}{3},0,10,0,0,frozen_n3
+test/algebra/1547.json,math500,3,medium,no_cot,$ 6r^2 + 14r - 30 $,6r^2-4r-24,0,17,0,0,frozen_n3
+test/algebra/1553.json,math500,3,medium,no_cot,5.,3,0,4,0,0,frozen_n3
+test/algebra/1936.json,math500,3,medium,no_cot,$ \boxed{-2} $,-1,0,8,0,0,frozen_n3
+test/algebra/2159.json,math500,3,medium,no_cot,3.,11,0,4,0,0,frozen_n3
+test/algebra/351.json,math500,3,medium,no_cot,1,2,0,3,0,0,frozen_n3
+test/algebra/425.json,math500,3,medium,no_cot,$ \boxed{24} $,-128,0,9,0,0,frozen_n3
+test/algebra/661.json,math500,3,medium,no_cot,4 miles.,36,0,76,0,0,frozen_n3
+test/algebra/694.json,math500,3,medium,no_cot,20,16,0,4,0,0,frozen_n3
+test/geometry/477.json,math500,3,medium,no_cot,27 cubic inches.,216,0,7,0,0,frozen_n3
+test/geometry/843.json,math500,3,medium,no_cot,$ 4\sqrt{2} $ centimeters.,6\sqrt{2},0,13,0,0,frozen_n3
+test/intermediate_algebra/1232.json,math500,3,medium,no_cot,$ \boxed{\frac{5}{13}} $,\frac{5}{13},1,13,0,0,frozen_n3
+test/intermediate_algebra/1247.json,math500,3,medium,no_cot,$\boxed{16}$,-256,0,7,0,0,frozen_n3
+test/intermediate_algebra/1365.json,math500,3,medium,no_cot,$ \boxed{30} $,15,0,9,0,0,frozen_n3
+test/number_theory/22.json,math500,3,medium,no_cot,3,2,0,26,0,0,frozen_n3
+test/number_theory/459.json,math500,3,medium,no_cot,$ \frac{213}{4} $ inches.,\frac{639}{40},0,14,0,0,frozen_n3
+test/prealgebra/1227.json,math500,3,medium,no_cot,60 handshakes.,60,1,8,0,0,frozen_n3
+test/prealgebra/1238.json,math500,3,medium,no_cot,3,2,0,3,0,0,frozen_n3
+test/prealgebra/1761.json,math500,3,medium,no_cot,15,\frac{3}{2},0,4,0,0,frozen_n3
+test/prealgebra/1787.json,math500,3,medium,no_cot,$\left( \dfrac{13 }{ 37 } \right)^{55} $,1,0,24,0,0,frozen_n3
+test/prealgebra/1804.json,math500,3,medium,no_cot,46,29,0,21,0,0,frozen_n3
+test/prealgebra/631.json,math500,3,medium,no_cot,$ \boxed{2} $ square inches.,2,1,11,0,0,frozen_n3
+test/precalculus/1201.json,math500,3,medium,no_cot,$ \boxed{35} $,11,0,128,1,0,frozen_n3
+test/precalculus/356.json,math500,3,medium,no_cot,$ y = -\frac{1}{2}x $,y = -2x,0,14,0,0,frozen_n3
+test/precalculus/477.json,math500,3,medium,no_cot,$ \boxed{7} $,3 \sqrt{5},0,8,0,0,frozen_n3
+test/precalculus/801.json,math500,3,medium,no_cot,$ 29^\circ $.,55^\circ,0,40,0,0,frozen_n3
+test/precalculus/819.json,math500,3,medium,no_cot,(C) Plane.,\text{(C)},0,6,0,0,frozen_n3
+test/precalculus/826.json,math500,3,medium,no_cot,$\boxed{\frac{1}{8}}$,\frac{1}{16},0,11,0,0,frozen_n3
+test/precalculus/96.json,math500,3,medium,no_cot,$ \boxed{2} $,\frac{7}{4},0,8,0,0,frozen_n3
+test/algebra/1072.json,math500,4,medium,no_cot,$\frac{125}{27}$,\frac{243}{625},0,11,0,0,frozen_n3
+test/algebra/1082.json,math500,4,medium,no_cot,$ \boxed{11} $,23,0,9,0,0,frozen_n3
+test/algebra/187.json,math500,4,medium,no_cot,3.,3,1,4,0,0,frozen_n3
+test/algebra/1960.json,math500,4,medium,no_cot,$ \boxed{3} $,9,0,8,0,0,frozen_n3
+test/algebra/2058.json,math500,4,medium,no_cot,$ \boxed{11} $,13,0,9,0,0,frozen_n3
+test/algebra/2253.json,math500,4,medium,no_cot,$\boxed{\frac{3}{2}}$,\frac{3\sqrt{3}}{4},0,11,0,0,frozen_n3
+test/algebra/621.json,math500,4,medium,no_cot,$ \boxed{5.8} $,3.21,0,10,0,0,frozen_n3
+test/counting_and_probability/1114.json,math500,4,medium,no_cot,$ \frac{1}{6} $,\frac{11}{36},0,10,0,0,frozen_n3
+test/counting_and_probability/230.json,math500,4,medium,no_cot,$ \frac{1}{12} $,\frac{2}{21},0,11,0,0,frozen_n3
+test/counting_and_probability/339.json,math500,4,medium,no_cot,12,12,1,4,0,0,frozen_n3
+test/counting_and_probability/377.json,math500,4,medium,no_cot,$\boxed{\frac{21}{625}}$,\frac{448}{15625},0,14,0,0,frozen_n3
+test/geometry/473.json,math500,4,medium,no_cot,144 square inches.,864 \mbox{ inches}^2,0,8,0,0,frozen_n3
+test/intermediate_algebra/1210.json,math500,4,medium,no_cot,$ \boxed{2x - 6} $,-13x+3,0,12,0,0,frozen_n3
+test/intermediate_algebra/1981.json,math500,4,medium,no_cot,"$ (3, 4) $","(2,12) \cup (12,102)",0,9,0,0,frozen_n3
+test/intermediate_algebra/47.json,math500,4,medium,no_cot,"$ \boxed{(1, 3)) $","(-2,1)",0,11,0,0,frozen_n3
+test/intermediate_algebra/90.json,math500,4,medium,no_cot,$ \boxed{630} $,898,0,10,0,0,frozen_n3
+test/number_theory/1065.json,math500,4,medium,no_cot,$ \boxed{11} $,17,0,9,0,0,frozen_n3
+test/number_theory/156.json,math500,4,medium,no_cot,$ \boxed{7} $,13,0,8,0,0,frozen_n3
+test/number_theory/72.json,math500,4,medium,no_cot,256.,121,0,6,0,0,frozen_n3
+test/prealgebra/1356.json,math500,4,medium,no_cot,$ \frac{2}{9} $,\frac{4}{9},0,10,0,0,frozen_n3
+test/prealgebra/1973.json,math500,4,medium,no_cot,"1.666... inches per second, or $ \frac{5}{3} $ inches per second.",4,0,47,0,0,frozen_n3
+test/prealgebra/1991.json,math500,4,medium,no_cot,Navin,\text{Navin},1,3,0,0,frozen_n3
+test/prealgebra/2057.json,math500,4,medium,no_cot,10 × 9 = 90.,90,1,12,0,0,frozen_n3
+test/prealgebra/874.json,math500,4,medium,no_cot,$ 32^\circ $,116,0,8,0,0,frozen_n3
+test/prealgebra/914.json,math500,4,medium,no_cot,$ 105^\circ $,75^\circ,0,9,0,0,frozen_n3
+test/prealgebra/993.json,math500,4,medium,no_cot,750,1250,0,128,1,0,frozen_n3
+test/precalculus/190.json,math500,4,medium,no_cot,$\boxed{\dfrac{1}{16}}$,\frac{9}{256},0,13,0,0,frozen_n3
+test/precalculus/499.json,math500,4,medium,no_cot,"$\boxed{\left[ \frac{\pi^2}{4}, \pi^2 \right]}$","\left[ \frac{\pi^2}{8}, \frac{5 \pi^2}{4} \right]",0,23,0,0,frozen_n3
+test/precalculus/920.json,math500,4,medium,no_cot,$\boxed{\begin{pmatrix} 0 & 0 \\ 0 & 0 \end{pmatrix}}$,\begin{pmatrix} -1 & 0 \\ 0 & -1 \end{pmatrix},0,27,0,0,frozen_n3
+test/precalculus/989.json,math500,4,medium,no_cot,$\boxed{22}$,12,0,7,0,0,frozen_n3
+test/algebra/1282.json,math500,5,medium,no_cot,$ \boxed{16} $,11,0,9,0,0,frozen_n3
+test/algebra/1837.json,math500,5,medium,no_cot,$ \boxed{6} $,5,0,8,0,0,frozen_n3
+test/algebra/2064.json,math500,5,medium,no_cot,$ \boxed{49} $,81,0,9,0,0,frozen_n3
+test/algebra/2779.json,math500,5,medium,no_cot,$ \boxed{1} $,20,0,8,0,0,frozen_n3
+test/algebra/2780.json,math500,5,medium,no_cot,\$12.50.,\$18.90,0,8,0,0,frozen_n3
+test/algebra/297.json,math500,5,medium,no_cot,$ \boxed{16} $,1736,0,9,0,0,frozen_n3
+test/algebra/776.json,math500,5,medium,no_cot,$ \boxed{3} $,-2,0,8,0,0,frozen_n3
+test/algebra/892.json,math500,5,medium,no_cot,$ \boxed{1} $,2,0,8,0,0,frozen_n3
+test/counting_and_probability/1003.json,math500,5,medium,no_cot,$ \boxed{47} $,29,0,128,1,0,frozen_n3
+test/counting_and_probability/159.json,math500,5,medium,no_cot,144,28800,0,128,1,0,frozen_n3
+test/counting_and_probability/731.json,math500,5,medium,no_cot,$ \boxed{\frac{1}{2(1 + k^2)}} $,\frac{1}{2},0,18,0,0,frozen_n3
+test/geometry/172.json,math500,5,medium,no_cot,$ \boxed{16} $,8,0,9,0,0,frozen_n3
+test/geometry/229.json,math500,5,medium,no_cot,$ \boxed{22} $,16,0,128,1,0,frozen_n3
+test/geometry/826.json,math500,5,medium,no_cot,$ 2\frac{1}{2} $ or $ \frac{5}{2} $ units.,1\frac{4}{5},0,24,0,0,frozen_n3
+test/geometry/880.json,math500,5,medium,no_cot,$ \boxed{23\sqrt{2}} $ feet.,2\sqrt{113},0,15,0,0,frozen_n3
+test/intermediate_algebra/1166.json,math500,5,medium,no_cot,$\boxed{27}$,100,0,7,0,0,frozen_n3
+test/intermediate_algebra/1467.json,math500,5,medium,no_cot,$\boxed{\frac{(2n + 1)(2n - 1)}{1}} = 4n^2 - 1$.,8n^2 + 4n + 1,0,128,1,0,frozen_n3
+test/intermediate_algebra/1510.json,math500,5,medium,no_cot,$ \boxed{32} $,0,0,9,0,0,frozen_n3
+test/intermediate_algebra/1791.json,math500,5,medium,no_cot,$\boxed{1}$,-\frac{3}{8},0,6,0,0,frozen_n3
+test/intermediate_algebra/2015.json,math500,5,medium,no_cot,"$\{2, 2, 2\}$","\{1\pm\sqrt{5},-2\}",0,128,1,0,frozen_n3
+test/intermediate_algebra/279.json,math500,5,medium,no_cot,$ \boxed{10} $,10,1,9,0,0,frozen_n3
+test/number_theory/13.json,math500,5,medium,no_cot,23.,64,0,5,0,0,frozen_n3
+test/number_theory/820.json,math500,5,medium,no_cot,$ \boxed{8} $,8,1,8,0,0,frozen_n3
+test/prealgebra/1003.json,math500,5,medium,no_cot,$ \boxed{\dfrac{90}{7}} $ degrees.,\frac{270}7\text{ degrees},0,16,0,0,frozen_n3
+test/prealgebra/1251.json,math500,5,medium,no_cot,7,8,0,128,1,0,frozen_n3
+test/precalculus/1133.json,math500,5,medium,no_cot,$ \boxed{a^2 + b^2 + c^2} $,3R^2,0,18,0,0,frozen_n3
+test/precalculus/323.json,math500,5,medium,no_cot,$ y = 3x + 5 $,y = 2x + 3,0,11,0,0,frozen_n3
+test/precalculus/398.json,math500,5,medium,no_cot,$\begin{pmatrix} -1 \\ 4 \end{pmatrix}$,\begin{pmatrix} 1/5 \\ -18/5 \end{pmatrix},0,18,0,0,frozen_n3
+test/precalculus/902.json,math500,5,medium,no_cot,$ \boxed{10} $,\sqrt{66},0,9,0,0,frozen_n3
+test/precalculus/986.json,math500,5,medium,no_cot,$ \boxed{3600} $,144,0,11,0,0,frozen_n3
+test/algebra/1004.json,math500,1,random,no_cot,$ x = 2 $,4,0,7,0,0,frozen_n3
+test/algebra/114.json,math500,1,random,no_cot,$\boxed{2}$,4,0,6,0,0,frozen_n3
+test/algebra/1214.json,math500,1,random,no_cot,$\boxed{1}$,1,1,6,0,0,frozen_n3
+test/algebra/24.json,math500,1,random,no_cot,2000 calories.,2000,1,8,0,0,frozen_n3
+test/algebra/2551.json,math500,1,random,no_cot,$14$,10,0,5,0,0,frozen_n3
+test/algebra/2592.json,math500,1,random,no_cot,$ 513^2 - 487^2 = (513 - 487)(513 + 487) = 26 \times 1000 = 26000 $.,26000,1,64,0,0,frozen_n3
+test/algebra/2789.json,math500,1,random,no_cot,$ 5\star1 = 9(5) + 2(1) - 5(1) + 5 = 45 + 2 - 5 + 5 = 47 $.,47,1,53,0,0,frozen_n3
+test/algebra/567.json,math500,1,random,no_cot,$\boxed{1}$,1,1,6,0,0,frozen_n3
+test/algebra/722.json,math500,1,random,no_cot,10001.,9901,0,8,0,0,frozen_n3
+test/algebra/849.json,math500,1,random,no_cot,$ f(-2) = 5(-2)^2 + 3(-2) + 4 = 20 - 6 + 4 = 18 $.,18,1,44,0,0,frozen_n3
+test/algebra/988.json,math500,1,random,no_cot,$\boxed{11}$,11,1,7,0,0,frozen_n3
+test/counting_and_probability/14.json,math500,1,random,no_cot,$\frac{1}{4}$,\frac14,1,8,0,0,frozen_n3
+test/counting_and_probability/761.json,math500,1,random,no_cot,1.,3,0,4,0,0,frozen_n3
+test/geometry/226.json,math500,1,random,no_cot,$\boxed{90}$ degrees.,180^\circ,0,9,0,0,frozen_n3
+test/intermediate_algebra/1102.json,math500,1,random,no_cot,"$\boxed{-7, -2, 1}$","-2,1",0,12,0,0,frozen_n3
+test/intermediate_algebra/134.json,math500,1,random,no_cot,$-50$,-50,1,6,0,0,frozen_n3
+test/intermediate_algebra/1714.json,math500,1,random,no_cot,"$(5, \infty)$","(5,\infty)",1,8,0,0,frozen_n3
+test/intermediate_algebra/431.json,math500,1,random,no_cot,(a + 5)(b + 2),(a+5)(b+2),0,12,0,0,frozen_n3
+test/intermediate_algebra/752.json,math500,1,random,no_cot,$\boxed{\log_2{7}}$,3,0,11,0,0,frozen_n3
+test/number_theory/132.json,math500,1,random,no_cot,0.,0,1,4,0,0,frozen_n3
+test/number_theory/239.json,math500,1,random,no_cot,$3$,2,0,4,0,0,frozen_n3
+test/number_theory/342.json,math500,1,random,no_cot,0.,0,1,4,0,0,frozen_n3
+test/prealgebra/105.json,math500,1,random,no_cot,south.,\text{east},0,3,0,0,frozen_n3
+test/prealgebra/1272.json,math500,1,random,no_cot,$\frac{1}{5} + \frac{2}{3} = \frac{3}{15} + \frac{10}{15} = \frac{13}{15}$,\frac{13}{15},1,58,0,0,frozen_n3
+test/prealgebra/1747.json,math500,1,random,no_cot,$1$,1,1,4,0,0,frozen_n3
+test/prealgebra/307.json,math500,1,random,no_cot,240.,240,1,6,0,0,frozen_n3
+test/prealgebra/996.json,math500,1,random,no_cot,12,9,0,4,0,0,frozen_n3
+test/precalculus/1289.json,math500,1,random,no_cot,$-2 \cdot 3 + 0 \cdot 4 + 7 \cdot (-5) = -6 - 35 = -41$.,-41,1,42,0,0,frozen_n3
+test/precalculus/1303.json,math500,1,random,no_cot,$\boxed{7}$,\sqrt{51},0,6,0,0,frozen_n3
+test/precalculus/43.json,math500,1,random,no_cot,"$(15, -23)$","(15,-29)",0,9,0,0,frozen_n3
+test/algebra/1255.json,math500,2,random,no_cot,$3$,6,0,4,0,0,frozen_n3
+test/algebra/1265.json,math500,2,random,no_cot,$\frac{1}{2}$,\frac{3}{2},0,8,0,0,frozen_n3
+test/algebra/1814.json,math500,2,random,no_cot,**26**.,143,0,6,0,0,frozen_n3
+test/algebra/2214.json,math500,2,random,no_cot,$\boxed{2}$,4,0,6,0,0,frozen_n3
+test/algebra/2476.json,math500,2,random,no_cot,78.,10,0,5,0,0,frozen_n3
+test/algebra/2593.json,math500,2,random,no_cot,$ \boxed{1000} $,8000,0,11,0,0,frozen_n3
+test/algebra/2735.json,math500,2,random,no_cot,$\frac{1}{20}$,\frac{11+9a}{20},0,9,0,0,frozen_n3
+test/algebra/2743.json,math500,2,random,no_cot,12,29,0,4,0,0,frozen_n3
+test/algebra/346.json,math500,2,random,no_cot,$ g(f(5) - 1) = g(7) = 8 $,7,0,20,0,0,frozen_n3
+test/algebra/524.json,math500,2,random,no_cot,$ 4005 $,4005,1,8,0,0,frozen_n3
+test/geometry/248.json,math500,2,random,no_cot,$ \boxed{5} $ cm.,5,1,10,0,0,frozen_n3
+test/geometry/254.json,math500,2,random,no_cot,2 units.,3,0,5,0,0,frozen_n3
+test/intermediate_algebra/1217.json,math500,2,random,no_cot,$-3$,x^5 - x^4 + x^3 - x^2 + x - 1,0,5,0,0,frozen_n3
+test/intermediate_algebra/1572.json,math500,2,random,no_cot,$\boxed{3}$,5,0,6,0,0,frozen_n3
+test/number_theory/234.json,math500,2,random,no_cot,$\boxed{13}$,16,0,7,0,0,frozen_n3
+test/number_theory/46.json,math500,2,random,no_cot,$ 40_9 $,40_9,1,8,0,0,frozen_n3
+test/number_theory/627.json,math500,2,random,no_cot,$\boxed{2}$,3,0,6,0,0,frozen_n3
+test/number_theory/931.json,math500,2,random,no_cot,37.,49,0,5,0,0,frozen_n3
+test/prealgebra/1113.json,math500,2,random,no_cot,$ \sqrt{3600} = 60 $,60,1,15,0,0,frozen_n3
+test/prealgebra/1114.json,math500,2,random,no_cot,15 cm².,15\mbox{ cm}^2,1,7,0,0,frozen_n3
+test/prealgebra/1622.json,math500,2,random,no_cot,21 inches.,42,0,6,0,0,frozen_n3
+test/prealgebra/1924.json,math500,2,random,no_cot,$2k + 2$,2k+2,0,8,0,0,frozen_n3
+test/prealgebra/930.json,math500,2,random,no_cot,**32 cm**.,12,0,7,0,0,frozen_n3
+test/precalculus/1105.json,math500,2,random,no_cot,$-\frac{\pi}{6}$,-\frac{\pi}{6},1,9,0,0,frozen_n3
+test/precalculus/1252.json,math500,2,random,no_cot,$\boxed{1}$,1,1,6,0,0,frozen_n3
+test/precalculus/441.json,math500,2,random,no_cot,$\boxed{30}$ degrees.,30^\circ,1,9,0,0,frozen_n3
+test/precalculus/452.json,math500,2,random,no_cot,**(E) Hyperbola**,\text{(E)},0,9,0,0,frozen_n3
+test/precalculus/695.json,math500,2,random,no_cot,"$\boxed{(- \infty, 0)]$","(-\infty, 0]",1,13,0,0,frozen_n3
+test/precalculus/742.json,math500,2,random,no_cot,$\boxed{0.12}$,\frac{9}{100},0,9,0,0,frozen_n3
+test/precalculus/779.json,math500,2,random,no_cot,$ 2 - 7i $,-2 + 7i,0,9,0,0,frozen_n3
+test/algebra/1098.json,math500,3,random,no_cot,$6 + 12i - 3i = 6 + 9i$.,6+9i,0,30,0,0,frozen_n3
+test/algebra/1275.json,math500,3,random,no_cot,$\frac{1}{3}$,\frac{\sqrt{3}}{3},0,8,0,0,frozen_n3
+test/algebra/1547.json,math500,3,random,no_cot,$6r^2 + 2r - 42$,6r^2-4r-24,0,15,0,0,frozen_n3
+test/algebra/1553.json,math500,3,random,no_cot,$\boxed{5}$,3,0,6,0,0,frozen_n3
+test/algebra/1936.json,math500,3,random,no_cot,$\boxed{-2}$,-1,0,6,0,0,frozen_n3
+test/algebra/2159.json,math500,3,random,no_cot,$-1$,11,0,5,0,0,frozen_n3
+test/algebra/351.json,math500,3,random,no_cot,$\boxed{1}$,2,0,6,0,0,frozen_n3
+test/algebra/425.json,math500,3,random,no_cot,$-14$,-128,0,6,0,0,frozen_n3
+test/algebra/661.json,math500,3,random,no_cot,4 miles.,36,0,5,0,0,frozen_n3
+test/algebra/694.json,math500,3,random,no_cot,20.,16,0,5,0,0,frozen_n3
+test/geometry/477.json,math500,3,random,no_cot,**27 cubic inches**.,216,0,8,0,0,frozen_n3
+test/geometry/843.json,math500,3,random,no_cot,$\boxed{4\sqrt{2}}$,6\sqrt{2},0,11,0,0,frozen_n3
+test/intermediate_algebra/1232.json,math500,3,random,no_cot,$\boxed{\frac{3}{5}}$,\frac{5}{13},0,11,0,0,frozen_n3
+test/intermediate_algebra/1247.json,math500,3,random,no_cot,$\boxed{16}$,-256,0,7,0,0,frozen_n3
+test/intermediate_algebra/1365.json,math500,3,random,no_cot,$\boxed{30}$,15,0,7,0,0,frozen_n3
+test/number_theory/22.json,math500,3,random,no_cot,$\boxed{3}$,2,0,6,0,0,frozen_n3
+test/number_theory/459.json,math500,3,random,no_cot,$\frac{107}{2}$ inches.,\frac{639}{40},0,12,0,0,frozen_n3
+test/prealgebra/1227.json,math500,3,random,no_cot,60.,60,1,5,0,0,frozen_n3
+test/prealgebra/1238.json,math500,3,random,no_cot,$2$,2,1,4,0,0,frozen_n3
+test/prealgebra/1761.json,math500,3,random,no_cot,$ 15 $,\frac{3}{2},0,6,0,0,frozen_n3
+test/prealgebra/1787.json,math500,3,random,no_cot,$\boxed{\left(\frac{4 \frac{5}{8} \cdot \frac{8}{37}}\right)^{55}}$,1,0,34,0,0,frozen_n3
+test/prealgebra/1804.json,math500,3,random,no_cot,22.5,29,0,25,0,0,frozen_n3
+test/prealgebra/631.json,math500,3,random,no_cot,$\boxed{2}$ square inches.,2,1,9,0,0,frozen_n3
+test/precalculus/1201.json,math500,3,random,no_cot,$\boxed{115}$,11,0,128,1,0,frozen_n3
+test/precalculus/356.json,math500,3,random,no_cot,$$,y = -2x,0,17,0,0,frozen_n3
+test/precalculus/477.json,math500,3,random,no_cot,$\boxed{3\sqrt{6}}$,3 \sqrt{5},0,11,0,0,frozen_n3
+test/precalculus/801.json,math500,3,random,no_cot,$\boxed{29^\circ}$,55^\circ,0,9,0,0,frozen_n3
+test/precalculus/819.json,math500,3,random,no_cot,**(C) Plane**,\text{(C)},0,7,0,0,frozen_n3
+test/precalculus/826.json,math500,3,random,no_cot,$\boxed{\frac{1}{2}}$,\frac{1}{16},0,11,0,0,frozen_n3
+test/precalculus/96.json,math500,3,random,no_cot,$\boxed{2}$,\frac{7}{4},0,6,0,0,frozen_n3
+test/algebra/1072.json,math500,4,random,no_cot,$\boxed{\frac{5}{3^6}}$ or $\boxed{\frac{5}{729}}$,\frac{243}{625},0,26,0,0,frozen_n3
+test/algebra/1082.json,math500,4,random,no_cot,$\boxed{11}$,23,0,7,0,0,frozen_n3
+test/algebra/187.json,math500,4,random,no_cot,$\boxed{3}$,3,1,6,0,0,frozen_n3
+test/algebra/1960.json,math500,4,random,no_cot,$\boxed{2}$,9,0,6,0,0,frozen_n3
+test/algebra/2058.json,math500,4,random,no_cot,$\boxed{14}$,13,0,7,0,0,frozen_n3
+test/algebra/2253.json,math500,4,random,no_cot,$\boxed{\frac{3\sqrt{3}}{2}}$,\frac{3\sqrt{3}}{4},0,16,0,0,frozen_n3
+test/algebra/621.json,math500,4,random,no_cot,$ \boxed{3.6} $,3.21,0,10,0,0,frozen_n3
+test/counting_and_probability/1114.json,math500,4,random,no_cot,$\boxed{\frac{1}{5}$},\frac{11}{36},0,11,0,0,frozen_n3
+test/counting_and_probability/230.json,math500,4,random,no_cot,$\boxed{\frac{1}{4}}$,\frac{2}{21},0,11,0,0,frozen_n3
+test/counting_and_probability/339.json,math500,4,random,no_cot,**6**.,12,0,5,0,0,frozen_n3
+test/counting_and_probability/377.json,math500,4,random,no_cot,$\boxed{\frac{1764}{3125}}$,\frac{448}{15625},0,17,0,0,frozen_n3
+test/geometry/473.json,math500,4,random,no_cot,36 square inches.,864 \mbox{ inches}^2,0,7,0,0,frozen_n3
+test/intermediate_algebra/1210.json,math500,4,random,no_cot,$\boxed{-6}$,-13x+3,0,6,0,0,frozen_n3
+test/intermediate_algebra/1981.json,math500,4,random,no_cot,"$\boxed{(-\infty, 2) \cup (2, 3)}$","(2,12) \cup (12,102)",0,21,0,0,frozen_n3
+test/intermediate_algebra/47.json,math500,4,random,no_cot,"$\boxed{(a, b) = (-3, 1)}$","(-2,1)",0,16,0,0,frozen_n3
+test/intermediate_algebra/90.json,math500,4,random,no_cot,$\boxed{1035}$,898,0,9,0,0,frozen_n3
+test/number_theory/1065.json,math500,4,random,no_cot,$\boxed{11}$,17,0,7,0,0,frozen_n3
+test/number_theory/156.json,math500,4,random,no_cot,$\boxed{5}$,13,0,6,0,0,frozen_n3
+test/number_theory/72.json,math500,4,random,no_cot,**25**.,121,0,6,0,0,frozen_n3
+test/prealgebra/1356.json,math500,4,random,no_cot,$\frac{1}{4}$,\frac{4}{9},0,8,0,0,frozen_n3
+test/prealgebra/1973.json,math500,4,random,no_cot,"1.666... inches per second, or $\frac{5}{3}$ inches per second.",4,0,24,0,0,frozen_n3
+test/prealgebra/1991.json,math500,4,random,no_cot,Luka from Croatia.,\text{Navin},0,6,0,0,frozen_n3
+test/prealgebra/2057.json,math500,4,random,no_cot,10 × 9 = 90.,90,1,12,0,0,frozen_n3
+test/prealgebra/874.json,math500,4,random,no_cot,$\boxed{32}$ degrees.,116,0,9,0,0,frozen_n3
+test/prealgebra/914.json,math500,4,random,no_cot,$\boxed{105}$ degrees.,75^\circ,0,10,0,0,frozen_n3
+test/prealgebra/993.json,math500,4,random,no_cot,$750,1250,0,5,0,0,frozen_n3
+test/precalculus/190.json,math500,4,random,no_cot,$\boxed{\frac{1}{16}}$,\frac{9}{256},0,12,0,0,frozen_n3
+test/precalculus/499.json,math500,4,random,no_cot,"$\boxed{[\frac{\pi^2}{4}, \frac{\pi^2}{2}]}$","\left[ \frac{\pi^2}{8}, \frac{5 \pi^2}{4} \right]",0,24,0,0,frozen_n3
+test/precalculus/920.json,math500,4,random,no_cot,$$,\begin{pmatrix} -1 & 0 \\ 0 & -1 \end{pmatrix},0,30,0,0,frozen_n3
+test/precalculus/989.json,math500,4,random,no_cot,$\boxed{20}$,12,0,7,0,0,frozen_n3
+test/algebra/1282.json,math500,5,random,no_cot,$\boxed{10}$,11,0,7,0,0,frozen_n3
+test/algebra/1837.json,math500,5,random,no_cot,$\boxed{6}$,5,0,6,0,0,frozen_n3
+test/algebra/2064.json,math500,5,random,no_cot,$\boxed{56}$,81,0,7,0,0,frozen_n3
+test/algebra/2779.json,math500,5,random,no_cot,$\boxed{1}$,20,0,6,0,0,frozen_n3
+test/algebra/2780.json,math500,5,random,no_cot,$\$10.70$,\$18.90,0,9,0,0,frozen_n3
+test/algebra/297.json,math500,5,random,no_cot,$\boxed{12}$,1736,0,7,0,0,frozen_n3
+test/algebra/776.json,math500,5,random,no_cot,$\boxed{3}$,-2,0,6,0,0,frozen_n3
+test/algebra/892.json,math500,5,random,no_cot,$\boxed{1}$,2,0,6,0,0,frozen_n3
+test/counting_and_probability/1003.json,math500,5,random,no_cot,$\boxed{112}$,29,0,128,1,0,frozen_n3
+test/counting_and_probability/159.json,math500,5,random,no_cot,**$ 4! = 24 $**,28800,0,128,1,0,frozen_n3
+test/counting_and_probability/731.json,math500,5,random,no_cot,$\boxed{\frac{1}{k^2 + 1}}$,\frac{1}{2},0,16,0,0,frozen_n3
+test/geometry/172.json,math500,5,random,no_cot,$\boxed{24}$,8,0,7,0,0,frozen_n3
+test/geometry/229.json,math500,5,random,no_cot,$\boxed{24}$,16,0,7,0,0,frozen_n3
+test/geometry/826.json,math500,5,random,no_cot,$\boxed{2\frac{1}{2}}$,1\frac{4}{5},0,13,0,0,frozen_n3
+test/geometry/880.json,math500,5,random,no_cot,$\boxed{13\sqrt{2}}$,2\sqrt{113},0,12,0,0,frozen_n3
+test/intermediate_algebra/1166.json,math500,5,random,no_cot,$\boxed{108}$,100,0,8,0,0,frozen_n3
+test/intermediate_algebra/1467.json,math500,5,random,no_cot,$$,8n^2 + 4n + 1,0,17,0,0,frozen_n3
+test/intermediate_algebra/1510.json,math500,5,random,no_cot,$\boxed{16}$,0,0,7,0,0,frozen_n3
+test/intermediate_algebra/1791.json,math500,5,random,no_cot,$\boxed{-1}$,-\frac{3}{8},0,6,0,0,frozen_n3
+test/intermediate_algebra/2015.json,math500,5,random,no_cot,$$,"\{1\pm\sqrt{5},-2\}",0,73,0,0,frozen_n3
+test/intermediate_algebra/279.json,math500,5,random,no_cot,$\boxed{10}$,10,1,7,0,0,frozen_n3
+test/number_theory/13.json,math500,5,random,no_cot,$\boxed{23}$,64,0,7,0,0,frozen_n3
+test/number_theory/820.json,math500,5,random,no_cot,$\boxed{4}$,8,0,6,0,0,frozen_n3
+test/prealgebra/1003.json,math500,5,random,no_cot,$\boxed{\frac{180}{7}}$ degrees.,\frac{270}7\text{ degrees},0,15,0,0,frozen_n3
+test/prealgebra/1251.json,math500,5,random,no_cot,**7**.,8,0,5,0,0,frozen_n3
+test/precalculus/1133.json,math500,5,random,no_cot,$$,3R^2,0,20,0,0,frozen_n3
+test/precalculus/323.json,math500,5,random,no_cot,$\boxed{y = 3x + 5}$,y = 2x + 3,0,13,0,0,frozen_n3
+test/precalculus/398.json,math500,5,random,no_cot,$\begin{pmatrix} -1 \\ 4 \end{pmatrix}$,\begin{pmatrix} 1/5 \\ -18/5 \end{pmatrix},0,18,0,0,frozen_n3
+test/precalculus/902.json,math500,5,random,no_cot,$\boxed{10}$,\sqrt{66},0,7,0,0,frozen_n3
+test/precalculus/986.json,math500,5,random,no_cot,$\boxed{360}$,144,0,8,0,0,frozen_n3
+test/prealgebra/996.json,math500,1,heavy,cot,} 9,9,1,448,0,0,frozen_n3
+test/prealgebra/1747.json,math500,1,heavy,cot,1,1,1,243,0,0,frozen_n3
+test/algebra/114.json,math500,1,heavy,cot,} 4,4,1,248,0,0,frozen_n3
+test/intermediate_algebra/1714.json,math500,1,heavy,cot,"} (5, \infty)","(5,\infty)",0,420,0,0,frozen_n3
+test/intermediate_algebra/1572.json,math500,2,heavy,cot,} 5,5,1,366,0,0,frozen_n3
+test/prealgebra/1622.json,math500,2,heavy,cot,42,42,1,251,0,0,frozen_n3
+test/prealgebra/930.json,math500,2,heavy,cot,} 12 \text{ cm},12,1,231,0,0,frozen_n3
+test/algebra/1255.json,math500,2,heavy,cot,6,6,1,223,0,0,frozen_n3
+test/number_theory/234.json,math500,2,heavy,cot,} 16,16,1,531,0,0,frozen_n3
+test/prealgebra/1114.json,math500,2,heavy,cot,} 15,15\mbox{ cm}^2,1,587,0,0,frozen_n3
+test/precalculus/441.json,math500,2,heavy,cot,} 30,30^\circ,1,631,0,0,frozen_n3
+test/algebra/2593.json,math500,2,heavy,cot,} 8000,8000,1,325,0,0,frozen_n3
+test/number_theory/46.json,math500,2,heavy,cot,,40_9,0,673,0,1,frozen_n3
+test/precalculus/695.json,math500,2,heavy,cot,,"(-\infty, 0]",0,892,0,1,frozen_n3
+test/number_theory/22.json,math500,3,heavy,cot,2,2,1,759,0,0,frozen_n3
+test/prealgebra/631.json,math500,3,heavy,cot,2,2,1,880,0,0,frozen_n3
+test/precalculus/477.json,math500,3,heavy,cot,} 3 \sqrt{5},3 \sqrt{5},1,906,0,0,frozen_n3
+test/geometry/477.json,math500,3,heavy,cot,216,216,1,602,0,0,frozen_n3
+test/prealgebra/1238.json,math500,3,heavy,cot,} 2,2,1,321,0,0,frozen_n3
+test/precalculus/356.json,math500,3,heavy,cot,} y = -2x,y = -2x,1,958,0,0,frozen_n3
+test/algebra/1553.json,math500,3,heavy,cot,} 3,3,1,1033,0,0,frozen_n3
+test/geometry/843.json,math500,3,heavy,cot,6\sqrt{2},6\sqrt{2},1,439,0,0,frozen_n3
+test/precalculus/801.json,math500,3,heavy,cot,} 67^\circ,55^\circ,0,1080,0,0,frozen_n3
+test/algebra/1936.json,math500,3,heavy,cot,-1,-1,1,287,0,0,frozen_n3
+test/intermediate_algebra/1210.json,math500,4,heavy,cot,-13x + 3,-13x+3,0,1289,0,0,frozen_n3
+test/prealgebra/1356.json,math500,4,heavy,cot,4/9,\frac{4}{9},1,417,0,0,frozen_n3
+test/geometry/473.json,math500,4,heavy,cot,864},864 \mbox{ inches}^2,1,301,0,0,frozen_n3
+test/algebra/2253.json,math500,4,heavy,cot,} \frac{3 \sqrt{3} }{ 4 },\frac{3\sqrt{3}}{4},0,441,0,0,frozen_n3
+test/intermediate_algebra/90.json,math500,4,heavy,cot,,898,0,4096,1,0,frozen_n3
+test/prealgebra/993.json,math500,4,heavy,cot,1250,1250,1,345,0,0,frozen_n3
+test/prealgebra/1991.json,math500,4,heavy,cot,Navin,\text{Navin},1,484,0,0,frozen_n3
+test/intermediate_algebra/1981.json,math500,4,heavy,cot,,"(2,12) \cup (12,102)",0,4096,1,0,frozen_n3
+test/algebra/2058.json,math500,4,heavy,cot,} 13,13,1,837,0,0,frozen_n3
+test/algebra/621.json,math500,4,heavy,cot,3.21,3.21,1,337,0,0,frozen_n3
+test/intermediate_algebra/1467.json,math500,5,heavy,cot,,8n^2 + 4n + 1,0,1514,0,1,frozen_n3
+test/algebra/776.json,math500,5,heavy,cot,-2,-2,1,325,0,0,frozen_n3
+test/intermediate_algebra/1166.json,math500,5,heavy,cot,,100,0,2149,0,1,frozen_n3
+test/algebra/2779.json,math500,5,heavy,cot,} 23,20,0,881,0,0,frozen_n3
+test/intermediate_algebra/1510.json,math500,5,heavy,cot,,0,0,872,0,1,frozen_n3
+test/intermediate_algebra/279.json,math500,5,heavy,cot,,10,0,1078,0,1,frozen_n3
+test/counting_and_probability/159.json,math500,5,heavy,cot,28800,28800,1,788,0,0,frozen_n3
+test/algebra/1837.json,math500,5,heavy,cot,} 5,5,1,1189,0,0,frozen_n3
+test/algebra/1282.json,math500,5,heavy,cot,11,11,1,797,0,0,frozen_n3
+test/algebra/2780.json,math500,5,heavy,cot,18.90,\$18.90,1,1067,0,0,frozen_n3
+test/precalculus/43.json,math500,1,random,cot,"\text{Final answer: } (15, -29)","(15,-29)",0,213,0,0,frozen_n3
+test/precalculus/1289.json,math500,1,random,cot,-41,-41,1,178,0,0,frozen_n3
+test/algebra/849.json,math500,1,random,cot,18,18,1,185,0,0,frozen_n3
+test/intermediate_algebra/134.json,math500,1,random,cot,-50,-50,1,215,0,0,frozen_n3
+test/prealgebra/307.json,math500,1,random,cot,240,240,1,131,0,0,frozen_n3
+test/prealgebra/1272.json,math500,1,random,cot,\frac{13}{15},\frac{13}{15},1,193,0,0,frozen_n3
+test/prealgebra/996.json,math500,1,random,cot,9,9,1,427,0,0,frozen_n3
+test/prealgebra/1747.json,math500,1,random,cot,1,1,1,221,0,0,frozen_n3
+test/algebra/114.json,math500,1,random,cot,4,4,1,297,0,0,frozen_n3
+test/intermediate_algebra/1714.json,math500,1,random,cot,"(5, \infty)","(5,\infty)",1,254,0,0,frozen_n3
+test/intermediate_algebra/1572.json,math500,2,random,cot,5,5,1,453,0,0,frozen_n3
+test/prealgebra/1622.json,math500,2,random,cot,42,42,1,331,0,0,frozen_n3
+test/prealgebra/930.json,math500,2,random,cot,12,12,1,233,0,0,frozen_n3
+test/algebra/1255.json,math500,2,random,cot,6,6,1,174,0,0,frozen_n3
+test/number_theory/234.json,math500,2,random,cot,16,16,1,321,0,0,frozen_n3
+test/prealgebra/1114.json,math500,2,random,cot,15,15\mbox{ cm}^2,1,473,0,0,frozen_n3
+test/precalculus/441.json,math500,2,random,cot,30,30^\circ,1,515,0,0,frozen_n3
+test/algebra/2593.json,math500,2,random,cot,8000,8000,1,291,0,0,frozen_n3
+test/number_theory/46.json,math500,2,random,cot,40_9,40_9,1,318,0,0,frozen_n3
+test/precalculus/695.json,math500,2,random,cot,"\text{Final answer: } (-\infty, 0]","(-\infty, 0]",1,700,0,0,frozen_n3
+test/number_theory/22.json,math500,3,random,cot,2,2,1,558,0,0,frozen_n3
+test/prealgebra/631.json,math500,3,random,cot,1,2,0,440,0,0,frozen_n3
+test/precalculus/477.json,math500,3,random,cot,3\sqrt{5},3 \sqrt{5},1,684,0,0,frozen_n3
+test/geometry/477.json,math500,3,random,cot,216,216,1,331,0,0,frozen_n3
+test/prealgebra/1238.json,math500,3,random,cot,2,2,1,365,0,0,frozen_n3
+test/precalculus/356.json,math500,3,random,cot,y = -2x,y = -2x,1,446,0,0,frozen_n3
+test/algebra/1553.json,math500,3,random,cot,\text{Final answer: } 3,3,1,754,0,0,frozen_n3
+test/geometry/843.json,math500,3,random,cot,6\sqrt{2},6\sqrt{2},1,462,0,0,frozen_n3
+test/precalculus/801.json,math500,3,random,cot,67^\circ,55^\circ,0,515,0,0,frozen_n3
+test/algebra/1936.json,math500,3,random,cot,-1,-1,1,237,0,0,frozen_n3
+test/intermediate_algebra/1210.json,math500,4,random,cot,-13x + 3,-13x+3,0,1324,0,0,frozen_n3
+test/prealgebra/1356.json,math500,4,random,cot,\text{Final answer: } \frac{4}{9},\frac{4}{9},1,368,0,0,frozen_n3
+test/geometry/473.json,math500,4,random,cot,864,864 \mbox{ inches}^2,1,312,0,0,frozen_n3
+test/algebra/2253.json,math500,4,random,cot,\text{Final answer: } \frac{3\sqrt{3}}{4},\frac{3\sqrt{3}}{4},0,257,0,0,frozen_n3
+test/intermediate_algebra/90.json,math500,4,random,cot,,898,0,3275,0,1,frozen_n3
+test/prealgebra/993.json,math500,4,random,cot,1250,1250,1,225,0,0,frozen_n3
+test/prealgebra/1991.json,math500,4,random,cot,Navin,\text{Navin},1,468,0,0,frozen_n3
+test/intermediate_algebra/1981.json,math500,4,random,cot,"(-2, 102)","(2,12) \cup (12,102)",0,471,0,0,frozen_n3
+test/algebra/2058.json,math500,4,random,cot,13,13,1,948,0,0,frozen_n3
+test/algebra/621.json,math500,4,random,cot,3.21,3.21,1,333,0,0,frozen_n3
+test/intermediate_algebra/1467.json,math500,5,random,cot,,8n^2 + 4n + 1,0,748,0,1,frozen_n3
+test/algebra/776.json,math500,5,random,cot,-2,-2,1,329,0,0,frozen_n3
+test/intermediate_algebra/1166.json,math500,5,random,cot,120,100,0,1536,0,0,frozen_n3
+test/algebra/2779.json,math500,5,random,cot,20,20,1,686,0,0,frozen_n3
+test/intermediate_algebra/1510.json,math500,5,random,cot,16,0,0,685,0,0,frozen_n3
+test/intermediate_algebra/279.json,math500,5,random,cot,10,10,1,1393,0,0,frozen_n3
+test/counting_and_probability/159.json,math500,5,random,cot,28800,28800,1,484,0,0,frozen_n3
+test/algebra/1837.json,math500,5,random,cot,5,5,1,893,0,0,frozen_n3
+test/algebra/1282.json,math500,5,random,cot,10,11,0,476,0,0,frozen_n3
+test/algebra/2780.json,math500,5,random,cot,\text{Final answer: } \$18.90,\$18.90,0,872,0,0,frozen_n3
+test/precalculus/43.json,math500,1,medium,cot,"(15, -29)","(15,-29)",0,268,0,0,frozen_n3
+test/precalculus/1289.json,math500,1,medium,cot,-41,-41,1,262,0,0,frozen_n3
+test/algebra/849.json,math500,1,medium,cot,18,18,1,175,0,0,frozen_n3
+test/intermediate_algebra/134.json,math500,1,medium,cot,-50,-50,1,210,0,0,frozen_n3
+test/prealgebra/307.json,math500,1,medium,cot,240,240,1,121,0,0,frozen_n3
+test/prealgebra/1272.json,math500,1,medium,cot,\frac{13}{15},\frac{13}{15},1,238,0,0,frozen_n3
+test/prealgebra/996.json,math500,1,medium,cot,9,9,1,407,0,0,frozen_n3
+test/prealgebra/1747.json,math500,1,medium,cot,1,1,1,146,0,0,frozen_n3
+test/algebra/114.json,math500,1,medium,cot,} 4,4,1,318,0,0,frozen_n3
+test/intermediate_algebra/1714.json,math500,1,medium,cot,"} (5, \infty)","(5,\infty)",0,186,0,0,frozen_n3
+test/intermediate_algebra/1572.json,math500,2,medium,cot,5,5,1,540,0,0,frozen_n3
+test/prealgebra/1622.json,math500,2,medium,cot,} 42,42,1,369,0,0,frozen_n3
+test/prealgebra/930.json,math500,2,medium,cot,} 12 \text{ cm},12,1,260,0,0,frozen_n3
+test/algebra/1255.json,math500,2,medium,cot,} 6,6,1,180,0,0,frozen_n3
+test/number_theory/234.json,math500,2,medium,cot,} 16,16,1,393,0,0,frozen_n3
+test/prealgebra/1114.json,math500,2,medium,cot,} 15,15\mbox{ cm}^2,1,512,0,0,frozen_n3
+test/precalculus/441.json,math500,2,medium,cot,30,30^\circ,1,617,0,0,frozen_n3
+test/algebra/2593.json,math500,2,medium,cot,8000,8000,1,266,0,0,frozen_n3
+test/number_theory/46.json,math500,2,medium,cot,} 40_9,40_9,1,389,0,0,frozen_n3
+test/precalculus/695.json,math500,2,medium,cot,"} (-\infty, 0)","(-\infty, 0]",1,663,0,0,frozen_n3
+test/number_theory/22.json,math500,3,medium,cot,,2,0,1276,0,1,frozen_n3
+test/prealgebra/631.json,math500,3,medium,cot,} 2,2,1,397,0,0,frozen_n3
+test/precalculus/477.json,math500,3,medium,cot,} 3\sqrt{5},3 \sqrt{5},1,837,0,0,frozen_n3
+test/geometry/477.json,math500,3,medium,cot,} 216,216,1,371,0,0,frozen_n3
+test/prealgebra/1238.json,math500,3,medium,cot,} 2,2,1,305,0,0,frozen_n3
+test/precalculus/356.json,math500,3,medium,cot,} y = -2x,y = -2x,1,453,0,0,frozen_n3
+test/algebra/1553.json,math500,3,medium,cot,} 3,3,1,685,0,0,frozen_n3
+test/geometry/843.json,math500,3,medium,cot,6\sqrt{2},6\sqrt{2},1,478,0,0,frozen_n3
+test/precalculus/801.json,math500,3,medium,cot,67^\circ,55^\circ,0,467,0,0,frozen_n3
+test/algebra/1936.json,math500,3,medium,cot,} -1,-1,1,263,0,0,frozen_n3
+test/intermediate_algebra/1210.json,math500,4,medium,cot,-13x + 3,-13x+3,0,1231,0,0,frozen_n3
+test/prealgebra/1356.json,math500,4,medium,cot,\frac{4}{9},\frac{4}{9},1,257,0,0,frozen_n3
+test/geometry/473.json,math500,4,medium,cot,} 864,864 \mbox{ inches}^2,1,286,0,0,frozen_n3
+test/algebra/2253.json,math500,4,medium,cot,\frac{3 \sqrt{3}}{4},\frac{3\sqrt{3}}{4},1,254,0,0,frozen_n3
+test/intermediate_algebra/90.json,math500,4,medium,cot,898,898,1,2020,0,0,frozen_n3
+test/prealgebra/993.json,math500,4,medium,cot,1250,1250,1,298,0,0,frozen_n3
+test/prealgebra/1991.json,math500,4,medium,cot,Navin,\text{Navin},1,642,0,0,frozen_n3
+test/intermediate_algebra/1981.json,math500,4,medium,cot,"(2, 12) \cup (12, 102)","(2,12) \cup (12,102)",0,809,0,0,frozen_n3
+test/algebra/2058.json,math500,4,medium,cot,13,13,1,874,0,0,frozen_n3
+test/algebra/621.json,math500,4,medium,cot,} 3.21,3.21,1,491,0,0,frozen_n3
+test/intermediate_algebra/1467.json,math500,5,medium,cot,,8n^2 + 4n + 1,0,4096,1,0,frozen_n3
+test/algebra/776.json,math500,5,medium,cot,-2,-2,1,322,0,0,frozen_n3
+test/intermediate_algebra/1166.json,math500,5,medium,cot,,100,0,1577,0,1,frozen_n3
+test/algebra/2779.json,math500,5,medium,cot,} 20,20,1,683,0,0,frozen_n3
+test/intermediate_algebra/1510.json,math500,5,medium,cot,,0,0,2181,0,1,frozen_n3
+test/intermediate_algebra/279.json,math500,5,medium,cot,10,10,1,983,0,0,frozen_n3
+test/counting_and_probability/159.json,math500,5,medium,cot,} 28800,28800,1,517,0,0,frozen_n3
+test/algebra/1837.json,math500,5,medium,cot,} 5,5,1,805,0,0,frozen_n3
+test/algebra/1282.json,math500,5,medium,cot,11,11,1,485,0,0,frozen_n3
+test/algebra/2780.json,math500,5,medium,cot,} 18.90,\$18.90,1,737,0,0,frozen_n3
+test/algebra/1004.json,math500,1,light,no_cot,4,4,1,3,0,0,frozen_n3
+test/algebra/114.json,math500,1,light,no_cot,$ \frac{4}{3} $,4,0,10,0,0,frozen_n3
+test/algebra/1214.json,math500,1,light,no_cot,$ k = 1 $,1,1,7,0,0,frozen_n3
+test/algebra/24.json,math500,1,light,no_cot,2000 calories.,2000,1,8,0,0,frozen_n3
+test/algebra/2551.json,math500,1,light,no_cot,14.,10,0,5,0,0,frozen_n3
+test/algebra/2592.json,math500,1,light,no_cot,2400.,26000,0,7,0,0,frozen_n3
+test/algebra/2789.json,math500,1,light,no_cot,33.,47,0,5,0,0,frozen_n3
+test/algebra/567.json,math500,1,light,no_cot,$ \boxed{1} $,1,1,8,0,0,frozen_n3
+test/algebra/722.json,math500,1,light,no_cot,9901,9901,1,6,0,0,frozen_n3
+test/algebra/849.json,math500,1,light,no_cot,18,18,1,4,0,0,frozen_n3
+test/algebra/988.json,math500,1,light,no_cot,$ x = 11 $,11,1,8,0,0,frozen_n3
+test/counting_and_probability/14.json,math500,1,light,no_cot,$ \frac{1}{4} $,\frac14,1,10,0,0,frozen_n3
+test/counting_and_probability/761.json,math500,1,light,no_cot,1.,3,0,4,0,0,frozen_n3
+test/geometry/226.json,math500,1,light,no_cot,$ \boxed{120} $ degrees.,180^\circ,0,12,0,0,frozen_n3
+test/intermediate_algebra/1102.json,math500,1,light,no_cot,"$-7, -2, 1, 2$","-2,1",0,14,0,0,frozen_n3
+test/intermediate_algebra/134.json,math500,1,light,no_cot,$-50$,-50,1,6,0,0,frozen_n3
+test/intermediate_algebra/1714.json,math500,1,light,no_cot,"$(5, \infty)$","(5,\infty)",1,8,0,0,frozen_n3
+test/intermediate_algebra/431.json,math500,1,light,no_cot,(a + 5)(b + 2),(a+5)(b+2),0,12,0,0,frozen_n3
+test/intermediate_algebra/752.json,math500,1,light,no_cot,$ \log_2{3} \cdot \log_3{4} \cdot \log_4{5} \cdot \log_5{6} \cdot \log_6{7} \cdot \log_7{8} = \frac{\log 8}{\log 2} = \frac{3 \log 2}{\log 2} = 3 $.,3,1,98,0,0,frozen_n3
+test/number_theory/132.json,math500,1,light,no_cot,0,0,1,3,0,0,frozen_n3
+test/number_theory/239.json,math500,1,light,no_cot,0,2,0,3,0,0,frozen_n3
+test/number_theory/342.json,math500,1,light,no_cot,0,0,1,3,0,0,frozen_n3
+test/prealgebra/105.json,math500,1,light,no_cot,west.,\text{east},0,3,0,0,frozen_n3
+test/prealgebra/1272.json,math500,1,light,no_cot,$\frac{1}{5} + \frac{2}{3} = \frac{3}{15} + \frac{10}{15} = \frac{13}{15}$,\frac{13}{15},1,45,0,0,frozen_n3
+test/prealgebra/1747.json,math500,1,light,no_cot,$ 1 $,1,1,5,0,0,frozen_n3
+test/prealgebra/307.json,math500,1,light,no_cot,240,240,1,5,0,0,frozen_n3
+test/prealgebra/996.json,math500,1,light,no_cot,18,9,0,4,0,0,frozen_n3
+test/precalculus/1289.json,math500,1,light,no_cot,$-2 \cdot 3 + 0 \cdot 4 + 7 \cdot (-5) = -6 + 0 - 35 = -41$,-41,1,52,0,0,frozen_n3
+test/precalculus/1303.json,math500,1,light,no_cot,$ \boxed{8} $,\sqrt{51},0,8,0,0,frozen_n3
+test/precalculus/43.json,math500,1,light,no_cot,"$ (15, -17) $","(15,-29)",0,11,0,0,frozen_n3
+test/algebra/1255.json,math500,2,light,no_cot,6.,6,1,4,0,0,frozen_n3
+test/algebra/1265.json,math500,2,light,no_cot,$\frac{1}{2}$,\frac{3}{2},0,8,0,0,frozen_n3
+test/algebra/1814.json,math500,2,light,no_cot,26.,143,0,5,0,0,frozen_n3
+test/algebra/2214.json,math500,2,light,no_cot,$ \boxed{2} $,4,0,8,0,0,frozen_n3
+test/algebra/2476.json,math500,2,light,no_cot,90,10,0,4,0,0,frozen_n3
+test/algebra/2593.json,math500,2,light,no_cot,14400.,8000,0,8,0,0,frozen_n3
+test/algebra/2735.json,math500,2,light,no_cot,$\frac{11a + 11}{20}$,\frac{11+9a}{20},0,15,0,0,frozen_n3
+test/algebra/2743.json,math500,2,light,no_cot,8 cents.,29,0,5,0,0,frozen_n3
+test/algebra/346.json,math500,2,light,no_cot,7,7,1,3,0,0,frozen_n3
+test/algebra/524.json,math500,2,light,no_cot,4001.,4005,0,7,0,0,frozen_n3
+test/geometry/248.json,math500,2,light,no_cot,5 cm.,5,1,5,0,0,frozen_n3
+test/geometry/254.json,math500,2,light,no_cot,2.,3,0,4,0,0,frozen_n3
+test/intermediate_algebra/1217.json,math500,2,light,no_cot,$-7$,x^5 - x^4 + x^3 - x^2 + x - 1,0,5,0,0,frozen_n3
+test/intermediate_algebra/1572.json,math500,2,light,no_cot,$ \boxed{3} $,5,0,8,0,0,frozen_n3
+test/number_theory/234.json,math500,2,light,no_cot,11.,16,0,5,0,0,frozen_n3
+test/number_theory/46.json,math500,2,light,no_cot,$ 40_9 $,40_9,1,8,0,0,frozen_n3
+test/number_theory/627.json,math500,2,light,no_cot,0.,3,0,4,0,0,frozen_n3
+test/number_theory/931.json,math500,2,light,no_cot,55.,49,0,5,0,0,frozen_n3
+test/prealgebra/1113.json,math500,2,light,no_cot,$ 60 $,60,1,6,0,0,frozen_n3
+test/prealgebra/1114.json,math500,2,light,no_cot,15 cm².,15\mbox{ cm}^2,1,7,0,0,frozen_n3
+test/prealgebra/1622.json,math500,2,light,no_cot,42 inches.,42,1,6,0,0,frozen_n3
+test/prealgebra/1924.json,math500,2,light,no_cot,$2k + 2$,2k+2,0,8,0,0,frozen_n3
+test/prealgebra/930.json,math500,2,light,no_cot,"18.666... cm, or $ \frac{56}{3} $ cm.",12,0,24,0,0,frozen_n3
+test/precalculus/1105.json,math500,2,light,no_cot,$-\frac{\pi}{6}$,-\frac{\pi}{6},1,9,0,0,frozen_n3
+test/precalculus/1252.json,math500,2,light,no_cot,$1$,1,1,4,0,0,frozen_n3
+test/precalculus/441.json,math500,2,light,no_cot,$ \boxed{28.1} $ degrees.,30^\circ,0,13,0,0,frozen_n3
+test/precalculus/452.json,math500,2,light,no_cot,$\boxed{E}$,\text{(E)},1,6,0,0,frozen_n3
+test/precalculus/695.json,math500,2,light,no_cot,"$ ( -\infty, 0 ) $","(-\infty, 0]",0,12,0,0,frozen_n3
+test/precalculus/742.json,math500,2,light,no_cot,$\boxed{0.096}$,\frac{9}{100},0,10,0,0,frozen_n3
+test/precalculus/779.json,math500,2,light,no_cot,$ 2 - 7i $,-2 + 7i,0,9,0,0,frozen_n3
+test/algebra/1098.json,math500,3,light,no_cot,$6 + 12i - 3i = 6 + 9i$,6+9i,0,20,0,0,frozen_n3
+test/algebra/1275.json,math500,3,light,no_cot,$ \frac{1}{3} $,\frac{\sqrt{3}}{3},0,10,0,0,frozen_n3
+test/algebra/1547.json,math500,3,light,no_cot,$6r^2 + 2r - 30$,6r^2-4r-24,0,15,0,0,frozen_n3
+test/algebra/1553.json,math500,3,light,no_cot,$\square = 5$,3,0,7,0,0,frozen_n3
+test/algebra/1936.json,math500,3,light,no_cot,$ \boxed{-2} $,-1,0,8,0,0,frozen_n3
+test/algebra/2159.json,math500,3,light,no_cot,3.,11,0,4,0,0,frozen_n3
+test/algebra/351.json,math500,3,light,no_cot,1,2,0,3,0,0,frozen_n3
+test/algebra/425.json,math500,3,light,no_cot,21,-128,0,4,0,0,frozen_n3
+test/algebra/661.json,math500,3,light,no_cot,4 miles.,36,0,5,0,0,frozen_n3
+test/algebra/694.json,math500,3,light,no_cot,20,16,0,4,0,0,frozen_n3
+test/geometry/477.json,math500,3,light,no_cot,324 cubic inches.,216,0,8,0,0,frozen_n3
+test/geometry/843.json,math500,3,light,no_cot,$ \boxed{8\sqrt{2}} $ centimeters.,6\sqrt{2},0,15,0,0,frozen_n3
+test/intermediate_algebra/1232.json,math500,3,light,no_cot,$ \boxed{\frac{5}{13}} $,\frac{5}{13},1,13,0,0,frozen_n3
+test/intermediate_algebra/1247.json,math500,3,light,no_cot,$\boxed{-4}$,-256,0,6,0,0,frozen_n3
+test/intermediate_algebra/1365.json,math500,3,light,no_cot,$ \boxed{30} $,15,0,9,0,0,frozen_n3
+test/number_theory/22.json,math500,3,light,no_cot,3,2,0,26,0,0,frozen_n3
+test/number_theory/459.json,math500,3,light,no_cot,$\frac{213}{4}$ inches.,\frac{639}{40},0,12,0,0,frozen_n3
+test/prealgebra/1227.json,math500,3,light,no_cot,60 handshakes.,60,1,8,0,0,frozen_n3
+test/prealgebra/1238.json,math500,3,light,no_cot,3,2,0,3,0,0,frozen_n3
+test/prealgebra/1761.json,math500,3,light,no_cot,15,\frac{3}{2},0,4,0,0,frozen_n3
+test/prealgebra/1787.json,math500,3,light,no_cot,$\left( \dfrac{13}{37} \right)^{55}$,1,0,21,0,0,frozen_n3
+test/prealgebra/1804.json,math500,3,light,no_cot,46.5,29,0,6,0,0,frozen_n3
+test/prealgebra/631.json,math500,3,light,no_cot,$\boxed{2}$ square inches.,2,1,9,0,0,frozen_n3
+test/precalculus/1201.json,math500,3,light,no_cot,$ \boxed{11} $,11,1,128,1,0,frozen_n3
+test/precalculus/356.json,math500,3,light,no_cot,$ y = -\frac{1}{2}x $,y = -2x,0,14,0,0,frozen_n3
+test/precalculus/477.json,math500,3,light,no_cot,$\boxed{7}$,3 \sqrt{5},0,6,0,0,frozen_n3
+test/precalculus/801.json,math500,3,light,no_cot,$ 29^\circ $,55^\circ,0,8,0,0,frozen_n3
+test/precalculus/819.json,math500,3,light,no_cot,(C) Plane,\text{(C)},0,5,0,0,frozen_n3
+test/precalculus/826.json,math500,3,light,no_cot,$\boxed{\frac{1}{8}}$,\frac{1}{16},0,11,0,0,frozen_n3
+test/precalculus/96.json,math500,3,light,no_cot,$\boxed{2}$,\frac{7}{4},0,6,0,0,frozen_n3
+test/algebra/1072.json,math500,4,light,no_cot,$\frac{125}{27}$,\frac{243}{625},0,11,0,0,frozen_n3
+test/algebra/1082.json,math500,4,light,no_cot,$ \boxed{11} $,23,0,9,0,0,frozen_n3
+test/algebra/187.json,math500,4,light,no_cot,3,3,1,14,0,0,frozen_n3
+test/algebra/1960.json,math500,4,light,no_cot,$ \boxed{3} $,9,0,8,0,0,frozen_n3
+test/algebra/2058.json,math500,4,light,no_cot,$ \boxed{13} $,13,1,9,0,0,frozen_n3
+test/algebra/2253.json,math500,4,light,no_cot,$\boxed{\frac{3\sqrt{2}}{2}}$,\frac{3\sqrt{3}}{4},0,16,0,0,frozen_n3
+test/algebra/621.json,math500,4,light,no_cot,$ 5.8 $,3.21,0,7,0,0,frozen_n3
+test/counting_and_probability/1114.json,math500,4,light,no_cot,$\frac{1}{5}$,\frac{11}{36},0,8,0,0,frozen_n3
+test/counting_and_probability/230.json,math500,4,light,no_cot,$ \frac{1}{14} $,\frac{2}{21},0,11,0,0,frozen_n3
+test/counting_and_probability/339.json,math500,4,light,no_cot,12,12,1,4,0,0,frozen_n3
+test/counting_and_probability/377.json,math500,4,light,no_cot,$\frac{21}{625}$,\frac{448}{15625},0,11,0,0,frozen_n3
+test/geometry/473.json,math500,4,light,no_cot,144 square inches.,864 \mbox{ inches}^2,0,8,0,0,frozen_n3
+test/intermediate_algebra/1210.json,math500,4,light,no_cot,$ \boxed{ -5x - 5 } $,-13x+3,0,13,0,0,frozen_n3
+test/intermediate_algebra/1981.json,math500,4,light,no_cot,"$ (3, 4) $","(2,12) \cup (12,102)",0,9,0,0,frozen_n3
+test/intermediate_algebra/47.json,math500,4,light,no_cot,"$\boxed{(1, 3)}$","(-2,1)",0,10,0,0,frozen_n3
+test/intermediate_algebra/90.json,math500,4,light,no_cot,$\boxed{630}$,898,0,8,0,0,frozen_n3
+test/number_theory/1065.json,math500,4,light,no_cot,$ \boxed{11} $,17,0,9,0,0,frozen_n3
+test/number_theory/156.json,math500,4,light,no_cot,$\boxed{5}$,13,0,6,0,0,frozen_n3
+test/number_theory/72.json,math500,4,light,no_cot,256.,121,0,6,0,0,frozen_n3
+test/prealgebra/1356.json,math500,4,light,no_cot,$ \frac{2}{9} $,\frac{4}{9},0,10,0,0,frozen_n3
+test/prealgebra/1973.json,math500,4,light,no_cot,"1.666... inches per second, or 1.67 inches per second.",4,0,22,0,0,frozen_n3
+test/prealgebra/1991.json,math500,4,light,no_cot,Navin,\text{Navin},1,3,0,0,frozen_n3
+test/prealgebra/2057.json,math500,4,light,no_cot,10 × 9 = 90.,90,1,12,0,0,frozen_n3
+test/prealgebra/874.json,math500,4,light,no_cot,$ 32^\circ $,116,0,8,0,0,frozen_n3
+test/prealgebra/914.json,math500,4,light,no_cot,$ \angle STR = 105^\circ $,75^\circ,0,13,0,0,frozen_n3
+test/prealgebra/993.json,math500,4,light,no_cot,1.25,1250,0,63,0,0,frozen_n3
+test/precalculus/190.json,math500,4,light,no_cot,$\boxed{\dfrac{\sqrt{3}}{16}}$,\frac{9}{256},0,16,0,0,frozen_n3
+test/precalculus/499.json,math500,4,light,no_cot,"$\boxed{[1, 2]}$","\left[ \frac{\pi^2}{8}, \frac{5 \pi^2}{4} \right]",0,11,0,0,frozen_n3
+test/precalculus/920.json,math500,4,light,no_cot,$\boxed{\begin{pmatrix} 3 & 7 \\ -1 & -2 \end{pmatrix}}$,\begin{pmatrix} -1 & 0 \\ 0 & -1 \end{pmatrix},0,27,0,0,frozen_n3
+test/precalculus/989.json,math500,4,light,no_cot,$\boxed{22}$,12,0,7,0,0,frozen_n3
+test/algebra/1282.json,math500,5,light,no_cot,$\boxed{16}$,11,0,7,0,0,frozen_n3
+test/algebra/1837.json,math500,5,light,no_cot,$ \boxed{6} $,5,0,8,0,0,frozen_n3
+test/algebra/2064.json,math500,5,light,no_cot,$ 108 $,81,0,7,0,0,frozen_n3
+test/algebra/2779.json,math500,5,light,no_cot,$ \boxed{1} $,20,0,8,0,0,frozen_n3
+test/algebra/2780.json,math500,5,light,no_cot,$\$12.30$,\$18.90,0,9,0,0,frozen_n3
+test/algebra/297.json,math500,5,light,no_cot,$ \boxed{16} $,1736,0,9,0,0,frozen_n3
+test/algebra/776.json,math500,5,light,no_cot,$ \boxed{3} $,-2,0,8,0,0,frozen_n3
+test/algebra/892.json,math500,5,light,no_cot,$\boxed{1}$,2,0,6,0,0,frozen_n3
+test/counting_and_probability/1003.json,math500,5,light,no_cot,$ \boxed{47} $,29,0,128,1,0,frozen_n3
+test/counting_and_probability/159.json,math500,5,light,no_cot,360,28800,0,5,0,0,frozen_n3
+test/counting_and_probability/731.json,math500,5,light,no_cot,$\boxed{\frac{1}{k^2 + 2}}$,\frac{1}{2},0,16,0,0,frozen_n3
+test/geometry/172.json,math500,5,light,no_cot,$\boxed{16}$,8,0,7,0,0,frozen_n3
+test/geometry/229.json,math500,5,light,no_cot,$\boxed{22}$,16,0,128,1,0,frozen_n3
+test/geometry/826.json,math500,5,light,no_cot,$ 2\frac{1}{2} $ or $ \frac{5}{2} $ units.,1\frac{4}{5},0,24,0,0,frozen_n3
+test/geometry/880.json,math500,5,light,no_cot,$ \boxed{23\sqrt{2}} $ feet.,2\sqrt{113},0,15,0,0,frozen_n3
+test/intermediate_algebra/1166.json,math500,5,light,no_cot,$\boxed{27}$,100,0,7,0,0,frozen_n3
+test/intermediate_algebra/1467.json,math500,5,light,no_cot,$\frac{(2^4 + \frac{1}{4})(4^4 + \frac{1}{4}) \dotsm [(2n)^4 + \frac{1}{4}]}{(1^4 + \frac{1}{4})(3^4 + \frac{1}{4}) \dotsm [(2n - 1)^4 + \frac{1}{4}]} = \frac{(2n + 1)(2n - 1)}{1}$,8n^2 + 4n + 1,1,128,1,0,frozen_n3
+test/intermediate_algebra/1510.json,math500,5,light,no_cot,$\boxed{256}$,0,0,8,0,0,frozen_n3
+test/intermediate_algebra/1791.json,math500,5,light,no_cot,$\boxed{1}$,-\frac{3}{8},0,6,0,0,frozen_n3
+test/intermediate_algebra/2015.json,math500,5,light,no_cot,"$\{2, 2, 2\}$","\{1\pm\sqrt{5},-2\}",0,128,1,0,frozen_n3
+test/intermediate_algebra/279.json,math500,5,light,no_cot,$\boxed{4}$,10,0,6,0,0,frozen_n3
+test/number_theory/13.json,math500,5,light,no_cot,23.,64,0,5,0,0,frozen_n3
+test/number_theory/820.json,math500,5,light,no_cot,$\boxed{8}$,8,1,6,0,0,frozen_n3
+test/prealgebra/1003.json,math500,5,light,no_cot,$\boxed{\dfrac{90}{7}}$ degrees.,\frac{270}7\text{ degrees},0,15,0,0,frozen_n3
+test/prealgebra/1251.json,math500,5,light,no_cot,7,8,0,128,1,0,frozen_n3
+test/precalculus/1133.json,math500,5,light,no_cot,$\boxed{a^2 + b^2 + c^2 - 3R^2}$,3R^2,0,22,0,0,frozen_n3
+test/precalculus/323.json,math500,5,light,no_cot,$ y = 3x + 5 $,y = 2x + 3,0,11,0,0,frozen_n3
+test/precalculus/398.json,math500,5,light,no_cot,$\begin{pmatrix} 1 \\ 3 \end{pmatrix}$,\begin{pmatrix} 1/5 \\ -18/5 \end{pmatrix},0,18,0,0,frozen_n3
+test/precalculus/902.json,math500,5,light,no_cot,$\boxed{10}$,\sqrt{66},0,7,0,0,frozen_n3
+test/precalculus/986.json,math500,5,light,no_cot,$\boxed{3600}$,144,0,9,0,0,frozen_n3
+test/precalculus/43.json,math500,1,light,cot,"} (15, -29)","(15,-29)",0,247,0,0,frozen_n3
+test/precalculus/1289.json,math500,1,light,cot,} -41,-41,1,258,0,0,frozen_n3
+test/algebra/849.json,math500,1,light,cot,18,18,1,180,0,0,frozen_n3
+test/intermediate_algebra/134.json,math500,1,light,cot,} -50,-50,1,243,0,0,frozen_n3
+test/prealgebra/307.json,math500,1,light,cot,240,240,1,216,0,0,frozen_n3
+test/prealgebra/1272.json,math500,1,light,cot,} \frac{13}{15},\frac{13}{15},1,201,0,0,frozen_n3
+test/prealgebra/996.json,math500,1,light,cot,9,9,1,386,0,0,frozen_n3
+test/prealgebra/1747.json,math500,1,light,cot,1,1,1,217,0,0,frozen_n3
+test/algebra/114.json,math500,1,light,cot,4,4,1,304,0,0,frozen_n3
+test/intermediate_algebra/1714.json,math500,1,light,cot,"} (5, \infty)","(5,\infty)",0,267,0,0,frozen_n3
+test/intermediate_algebra/1572.json,math500,2,light,cot,5,5,1,526,0,0,frozen_n3
+test/prealgebra/1622.json,math500,2,light,cot,} 42,42,1,310,0,0,frozen_n3
+test/prealgebra/930.json,math500,2,light,cot,} 12,12,1,259,0,0,frozen_n3
+test/algebra/1255.json,math500,2,light,cot,} 6,6,1,166,0,0,frozen_n3
+test/number_theory/234.json,math500,2,light,cot,} 16,16,1,421,0,0,frozen_n3
+test/prealgebra/1114.json,math500,2,light,cot,} 15,15\mbox{ cm}^2,1,420,0,0,frozen_n3
+test/precalculus/441.json,math500,2,light,cot,} 30,30^\circ,1,590,0,0,frozen_n3
+test/algebra/2593.json,math500,2,light,cot,} 8000,8000,1,291,0,0,frozen_n3
+test/number_theory/46.json,math500,2,light,cot,} 40_9,40_9,1,458,0,0,frozen_n3
+test/precalculus/695.json,math500,2,light,cot,"} (-\infty, 0]","(-\infty, 0]",1,642,0,0,frozen_n3
+test/number_theory/22.json,math500,3,light,cot,} 2,2,1,586,0,0,frozen_n3
+test/prealgebra/631.json,math500,3,light,cot,} 3.2,2,0,485,0,0,frozen_n3
+test/precalculus/477.json,math500,3,light,cot,} 3\sqrt{5},3 \sqrt{5},1,772,0,0,frozen_n3
+test/geometry/477.json,math500,3,light,cot,} 216,216,1,293,0,0,frozen_n3
+test/prealgebra/1238.json,math500,3,light,cot,} 2,2,1,257,0,0,frozen_n3
+test/precalculus/356.json,math500,3,light,cot,} y = -2x,y = -2x,1,565,0,0,frozen_n3
+test/algebra/1553.json,math500,3,light,cot,} 3,3,1,751,0,0,frozen_n3
+test/geometry/843.json,math500,3,light,cot,6\sqrt{2},6\sqrt{2},1,494,0,0,frozen_n3
+test/precalculus/801.json,math500,3,light,cot,} 67^\circ,55^\circ,0,593,0,0,frozen_n3
+test/algebra/1936.json,math500,3,light,cot,-1,-1,1,292,0,0,frozen_n3
+test/intermediate_algebra/1210.json,math500,4,light,cot,-13x + 3,-13x+3,0,1274,0,0,frozen_n3
+test/prealgebra/1356.json,math500,4,light,cot,} \frac{4}{9},\frac{4}{9},1,361,0,0,frozen_n3
+test/geometry/473.json,math500,4,light,cot,} 864,864 \mbox{ inches}^2,1,294,0,0,frozen_n3
+test/algebra/2253.json,math500,4,light,cot,} \frac{3\sqrt{3}}{4},\frac{3\sqrt{3}}{4},0,269,0,0,frozen_n3
+test/intermediate_algebra/90.json,math500,4,light,cot,} 256,898,0,1167,0,0,frozen_n3
+test/prealgebra/993.json,math500,4,light,cot,1250,1250,1,297,0,0,frozen_n3
+test/prealgebra/1991.json,math500,4,light,cot,Navin,\text{Navin},1,671,0,0,frozen_n3
+test/intermediate_algebra/1981.json,math500,4,light,cot,"(2, 12) \cup (12, 102)","(2,12) \cup (12,102)",0,714,0,0,frozen_n3
+test/algebra/2058.json,math500,4,light,cot,} 13,13,1,819,0,0,frozen_n3
+test/algebra/621.json,math500,4,light,cot,} 3.21,3.21,1,394,0,0,frozen_n3
+test/intermediate_algebra/1467.json,math500,5,light,cot,,8n^2 + 4n + 1,0,3130,0,1,frozen_n3
+test/algebra/776.json,math500,5,light,cot,-2,-2,1,327,0,0,frozen_n3
+test/intermediate_algebra/1166.json,math500,5,light,cot,120,100,0,1629,0,0,frozen_n3
+test/algebra/2779.json,math500,5,light,cot,} 20,20,1,1173,0,0,frozen_n3
+test/intermediate_algebra/1510.json,math500,5,light,cot,,0,0,758,0,1,frozen_n3
+test/intermediate_algebra/279.json,math500,5,light,cot,8,10,0,980,0,0,frozen_n3
+test/counting_and_probability/159.json,math500,5,light,cot,28800,28800,1,457,0,0,frozen_n3
+test/algebra/1837.json,math500,5,light,cot,5,5,1,995,0,0,frozen_n3
+test/algebra/1282.json,math500,5,light,cot,} 21,11,0,594,0,0,frozen_n3
+test/algebra/2780.json,math500,5,light,cot,18.90,\$18.90,1,951,0,0,frozen_n3
